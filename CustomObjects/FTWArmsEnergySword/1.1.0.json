@@ -1,0 +1,15 @@
+{
+  "Name": "FTW Arms Energy Sword",
+  "VersionNumber": "1.1.0",
+  "Description": "Probably the most powerful melee weapon in the game, and rightly so.",
+  "ShortDescription": "Halo Energy Sword",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/sRfBehT.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/sRfBehT.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/361/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NDg0NTgwYzgzYjYzMTVmNisrMTQxMg==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
