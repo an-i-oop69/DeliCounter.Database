@@ -1,0 +1,16 @@
+{
+  "Name": "Meat's Cutout Mags",
+  "VersionNumber": "1.1.0",
+  "Description": "A pair of magazines extracted from an unknown Zone abroad, with massive witness holes hastily cut into the sides. \r\n\r\nIncluded are the 6L20 and 6L10 magazines in 5.45x39mm and 7.62x39mm, respectively.\r\nFound at the end of the Assault Rifles tab.\r\n\r\n\r\nGracious thanks to Andrew_FTW for the model surgery and textures.\r\nGood luck out there!",
+  "ShortDescription": "Magazines with cutout witness holes",
+  "Authors": ["Meat Banono", "Andrew_FTW", "Jayyden"],
+  "IconUrl": "https://i.imgur.com/xETb4Fh.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/xETb4Fh.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/359/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YTk5MTg0NTBjNzRlZmMwZSsrMTQxMA==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "H3VRUtils": "^6.0.5",
+    "LSIIC": "^1.3.0"
+  }
+}
