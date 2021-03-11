@@ -1,0 +1,15 @@
+{
+  "Name": "Arctic Warfare Weapons",
+  "VersionNumber": "1.0.2",
+  "Description": "Ever wanted more Arctic Warfare weapons in-game? No? Well I do!\r\nThis mod includes the following weapons:\r\n\r\n- AWP (Black)\r\n- AWP (White)\r\n- AWP (Green)\r\n\r\n- AWS (White)\r\n- AWS (Black)\r\n\r\n(Marked under Arctic Warfare in Bolt Action Rifles)\r\n\r\n\r\nPLEASE NOTE:\r\nMuzzle Bipods can be attached to the mount underneath the barrels of AWP rifles. Doing so causes the gun's muzzle to change its location to the mount, so for accurate shooting place the attachment marked, \"Muzzle Fixer\" on the muzzle of the AWP after placing the bipod on.\r\n\r\nThis is my first mod.",
+  "ShortDescription": "Various Arctic Warfare models",
+  "Authors": ["Phoenixcraft99"],
+  "IconUrl": "https://i.imgur.com/JiymCO4.png",
+  "PreviewImageUrl": "https://i.imgur.com/JiymCO4.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/369/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZjI2ZGE4MTk4NTAyMDFkOCsrMTQzMA==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
