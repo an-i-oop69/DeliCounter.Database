@@ -10,5 +10,11 @@
   "InstallationSteps": ["extract $GAME_DIR/mods"],
   "Dependencies": {
     "Sideloader": "^0.3.3"
-  }
+  },
+  "Tags": [
+	"TNHAnnouncer"
+  ],
+  "IncompatibleTags": [
+	"TNHAnnouncer"
+  ]
 }
