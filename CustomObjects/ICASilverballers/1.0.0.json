@@ -1,0 +1,15 @@
+{
+  "Name": "ICA Silverballers",
+  "VersionNumber": "1.0.0",
+  "Description": "\"A tactical pistol. Custom slide. A low rate of fire with high damage.\"\n\nHere we go, have fun pretending to be Agent 47 you miserable people.",
+  "ShortDescription": "Silverballer from Hitman",
+  "Authors": ["SovietPigeon"],
+  "IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "PreviewImageUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/365/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YjQyOWIwZjE2Njg3YjAyZSsrMTQxNw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
