@@ -1,0 +1,15 @@
+{
+  "Name": "Social Distancing Swords",
+  "VersionNumber": "1.0.0",
+  "Description": "These swords will ensure you're 6ft apart from your enemies.",
+  "ShortDescription": "6ft-long swords",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/CraLnIQ.png",
+  "PreviewImageUrl": "https://i.imgur.com/CraLnIQ.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/327/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MWJiYjA5YTY5NTA5MzY2ZisrMTM1NA==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
