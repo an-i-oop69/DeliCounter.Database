@@ -1,0 +1,15 @@
+{
+  "Name": "FTW Arms Bren 10",
+  "VersionNumber": "1.0.0",
+  "Description": "Ever want to reenact Miami vice? Well now you can, with the FTW Arms Bren 10. Included are the Bren 10, the Bren 10 45 ACP conversion, and the \"Bren\" 10.",
+  "ShortDescription": "Bren 10",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/vYz4cGK.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/vYz4cGK.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/372/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NjI4YzBhY2FlNjAwN2UwOCsrMTQzNA==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

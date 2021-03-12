@@ -1,0 +1,15 @@
+{
+  "Name": "FTW Arms M&P Shield",
+  "VersionNumber": "1.0.0",
+  "Description": "One of the most popular carry guns has made its way to H3VR!",
+  "ShortDescription": "M&P Shield",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/23vwtMF.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/23vwtMF.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/373/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MDY2NDYyMzhkOTcxOGM1NisrMTQzNQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
