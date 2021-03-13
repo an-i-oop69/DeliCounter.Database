@@ -8,7 +8,7 @@
   "PreviewImageUrl": "https://i.imgur.com/Zi1tHOh.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/350/",
   "DownloadUrl": "https://bonetome.com/download.php?file=ZWJmM2VmNzc1NTU2ODZkYisrMTM5NQ==",
-  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "InstallationSteps": ["extract $GAME_DIR/Mods"],
   "Dependencies": {
     "Sideloader": "^0.3.3",
     "H3VRUtils": "^6.0.5"

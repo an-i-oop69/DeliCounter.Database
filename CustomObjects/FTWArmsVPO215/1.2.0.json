@@ -1,0 +1,15 @@
+{
+  "Name": "FTW Arms VPO-215",
+  "VersionNumber": "1.2.0",
+  "Description": "Here is the VPO-215! A tarkov favorite for many.\n\nKnown issue:\nThe bolt locks in two places, all the way forward, and almost all the way forward. This has no affect on gameplay, and is caused by something in Antons code.",
+  "ShortDescription": "VPO-215",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/9kk63pU.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/9kk63pU.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/279/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MWQ2ZmRlZWU1Yjk0ZTNmMCsrMTI0OQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

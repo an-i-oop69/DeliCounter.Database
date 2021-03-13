@@ -1,0 +1,16 @@
+{
+  "Name": "Meat and Melon's MVP",
+  "VersionNumber": "1.0.1",
+  "Description": "The biggest collab to date in H3!\r\n\r\nMelon's personal Mossberg MVP is in H3VR under the bolt action rifle category! Accepting 5.56 stanag mags in green polymer and ash wood, and 7.62 M14 mags in black polymer and beautifully oiled wood.\r\n\r\nThere is also a hidden bipod attach point towards the front that requires H3 Utils for a neat appear-on-attach feature!",
+  "ShortDescription": "Mossberg MVP in both 5.56 and 7.62",
+  "Authors": ["Tactical Loon", "Nikpo", "Meat Banono", "Melon the Gunwarden"],
+  "IconUrl": "https://i.imgur.com/dNwcZAj.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/dNwcZAj.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/304/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NWZkMDgzZGYyNGI0OWZhZSsrMTMyMw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "H3VRUtils": "^6.0.5",
+    "LSIIC": "^1.3.0"
+  }
+}
