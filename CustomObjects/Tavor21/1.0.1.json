@@ -1,0 +1,15 @@
+{
+  "Name": "Tavor 21",
+  "VersionNumber": "1.0.1",
+  "Description": "flip up sights work but one in rear clips because cant do angles",
+  "ShortDescription": "5.56 bullpup assault rifle",
+  "Authors": ["sgt.brooks"],
+  "IconUrl": "https://i.imgur.com/IVskzvu.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/IVskzvu.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/135/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZDE5YmQ3Y2UyMTYxY2Y2ZSsyNjIxKzcyNw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
