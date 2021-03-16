@@ -1,0 +1,15 @@
+{
+  "Name": "[AR Five Seven] AR57",
+  "VersionNumber": "1.0.0",
+  "Description": "AR57",
+  "ShortDescription": "AR that uses p90 mags",
+  "Authors": ["sgt.brooks"],
+  "IconUrl": "https://i.imgur.com/ZHTTCFA.png",
+  "PreviewImageUrl": "https://i.imgur.com/ZHTTCFA.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/143/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YzczNGU3NmZmZTUwNzg2MysyNjIxKzc1Mw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
