@@ -8,7 +8,7 @@
   "PreviewImageUrl": "https://i.imgur.com/gGaFR6R.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/166/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MzIyNmVlZTc1MTMxOTdkYisyNjIxKzg4MQ==",
-  "InstallationSteps": ["extract $GAME_DIR"],
+  "InstallationSteps": ["extract $GAME_DIR\\VirtualObjects"],
   "Dependencies": {
     "LSIIC": "^1.3.0"
   }
