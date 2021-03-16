@@ -1,0 +1,15 @@
+{
+  "Name": "FTW Arms AN-94",
+  "VersionNumber": "1.1.0",
+  "Description": "Time for the technical and engineering marvel that is the Avtomat Nikonova 94, formally known as the AN-94. Chambered in 5.45 x 39, this guns defining feature is its hyperburst. With a burst fire rate of 1800 rpm, this guns burst beats out the vector with a measly 1200 rpm. The full auto fire rate is a very controllable 600 RPM, making it usable at medium ranges.",
+  "ShortDescription": "AN-94",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/A7lj6Np.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/A7lj6Np.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/382/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NjU3MGVlM2EzZWU2NzQ4YSsyNjIxKzE0NDk=",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
