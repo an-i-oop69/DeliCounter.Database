@@ -1,0 +1,15 @@
+{
+  "Name": "Nintendo Zapper",
+  "VersionNumber": "1.0.1",
+  "Description": "\r\nUsed to play Duck Hunt... now, used to kill Sosigs.\r\n\r\nModel from yogensia, on SketchFab.\r\nOriginally from Nintendo, of course.\r\n\r\n------------------------------------\r\n\r\nUsed Compound Pistol as a base.\r\nNo magazine needed.\r\n6 Mounts possible;\r\n\r\n- Suppressor Mount (Muzzle)\r\n- Bottom of the Barrel Mount\r\n- Left and Right Side of the Barrel (On the Gray parts)\r\n- Top (After the Slide, before the Barrel. The Wavy gray part)\r\n- Stock (At the back of the Handle, on the Bottom part of it)\r\n\r\nHave Fun!\r\n\r\n",
+  "ShortDescription": "NES Light Gun",
+  "Authors": ["LiuZuto"],
+  "IconUrl": "https://i.imgur.com/zugW1Y1.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/zugW1Y1.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/119/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZTdhOWRmZGQzYzBjYzk0ZisyNjIxKzcwMA==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
