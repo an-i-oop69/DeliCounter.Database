@@ -1,0 +1,15 @@
+{
+  "Name": "Meat's Rigs",
+  "VersionNumber": "1.0.0",
+  "Description": "Meats Rigs is here! With 19 different flavors of tactical loot-hauling capability, these provide a fresh new take on the classic H3 floating quickbelt system. These range in slot capacity from a meager 4 to a back-breaking 20!\r\n\r\nThese are all found under Misc. -> Backpacks, as these all go into your backpack slot. They will conflict with most other quickbelt layouts, so I officially recommend using 'Concealed Carry' if you want extra weapons or 'Small Pockets' if you want a more extreme inventory juggling experience.\r\n\r\nLearn them all and their various quirks (like pistol holsters on the MK3, Blackrock, and TV109) and practice those reload drills!\r\n\r\n\r\n\r\n\r\n\r\nAll models from Escape from Tarkov, edited by me :)",
+  "ShortDescription": "Tactical Rigs",
+  "Authors": ["Meat Banono"],
+  "IconUrl": "https://i.imgur.com/2zhgg2f.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/2zhgg2f.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/176/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=OGViNjM0MGVlOTUwMGYzNysyNjIxKzkzMA==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
