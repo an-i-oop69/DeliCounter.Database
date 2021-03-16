@@ -1,0 +1,15 @@
+{
+  "Name": "MK 23 from Ravenfield",
+  "VersionNumber": "1.1.0",
+  "Description": "The MK-23 from ravenfield.\n\nUSE .50 AE DEAGLE MAGS",
+  "ShortDescription": "MK-23 Pistol from Ravenfield",
+  "Authors": ["KamikazeFOX"],
+  "IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "PreviewImageUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/50/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MGM4NTRlMGMyYjhhZDVmZSsyNjIxKzQ1Nw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
