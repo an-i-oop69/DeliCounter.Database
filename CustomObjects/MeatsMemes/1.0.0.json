@@ -1,0 +1,15 @@
+{
+  "Name": "Meat's Memes",
+  "VersionNumber": "1.0.0",
+  "Description": "A set of 3d printed firearm accessories. These are horrible, garbage, and honestly might not even work as intended because they are... 3d printed firearm accessories.\r\n\r\nTry to enjoy them.\r\n\r\nFind them in the foregrips category.",
+  "ShortDescription": "3d printed meme attatchments",
+  "Authors": ["Meat Banono"],
+  "IconUrl": "https://i.imgur.com/jNNo8E9.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/jNNo8E9.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/191/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=Mzg2Y2U2ZDE5ZWNlYjIxMSsyNjIxKzk3Mg==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
