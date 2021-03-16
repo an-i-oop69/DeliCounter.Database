@@ -1,0 +1,15 @@
+{
+  "Name": "HK416 PACK",
+  "VersionNumber": "1.0.1",
+  "Description": "HAS \r\n416C\r\n416A5\r\n416\r\n",
+  "ShortDescription": "Various HK416 models",
+  "Authors": ["sgt.brooks"],
+  "IconUrl": "https://i.imgur.com/hSNum1t.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/hSNum1t.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/145/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=OWM4M2M2YWNlMzZhZDhlZCsyNjIxKzc1NQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
