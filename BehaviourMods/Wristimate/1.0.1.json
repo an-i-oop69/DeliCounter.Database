@@ -1,0 +1,15 @@
+{
+  "Name": "Wristimate",
+  "VersionNumber": "1.0.1",
+  "Description": "Wristimate is an H3VR mod that displays imprecise information about magazines on the wrist of your hand. This occurs on the wrist you are holding the magazine with, and only happens when you look at your wrist. It currently supports displaying the percentage of remaining rounds, as well as the caliber and class of the next round to be fed.",
+  "ShortDescription": "Shows aproximent rounds in mag under held magazine",
+  "Authors": ["ash-hat"],
+  "IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "SourceUrl": "https://github.com/ash-hat/Wristimate",
+  "DownloadUrl": "https://github.com/ash-hat/Wristimate/releases/download/v1.0.1/Wristimate.deli",
+  "InstallationSteps": ["move mods\\Wristimate.deli"],
+  "Dependencies": {
+    "BepInEx": "^5.4.5",
+    "Deli": "~0.2.5"
+  }
+}
