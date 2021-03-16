@@ -8,7 +8,7 @@
   "PreviewImageUrl": "https://i.imgur.com/N3X28ga.jpeg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/193/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MmE1MTc3MjQxZjM1ZmFiNSsyNjIxKzk3NQ==",
-  "InstallationSteps": ["extract $GAME_DIR/Mods"],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
     "LSIIC": "^1.3.0"
   }
