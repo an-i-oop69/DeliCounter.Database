@@ -1,0 +1,14 @@
+{
+  "Name": "dogemod",
+  "VersionNumber": "9.9.9",
+  "Description": "dogemod\nit replaces all gun textures with doge because i have the mental maturity of an 8 year old",
+  "ShortDescription": "Replaces all gun textures with doge",
+  "Authors": ["not potatoes", "please do not accociate me with this"],
+  "IconUrl": "https://i.imgur.com/7PytlwE.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/268/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YzliMjU0NGI5M2QyZDcyMSsyNjIxKzExNzA=",
+  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}
