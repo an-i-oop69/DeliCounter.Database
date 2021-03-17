@@ -1,0 +1,14 @@
+{
+  "Name": "Tarkov Russian Calibers (FIXED!)",
+  "VersionNumber": "0.9.1",
+  "Description": "Did you ever feel that brass is a disgusting material?\r\nDo you think that Russian steel casings are superior? \r\nWell I have the mod for you!\r\n\r\nThis mod replaces majority of the Russian calibers with new and improved textures, based off from \"Escape from Tarkov\"\r\n\r\nAmmo replaced in this mod:\r\n-  5.45x39\r\n-  7.62x38\r\n-  9x18\r\n-  23x74 (Special Thanks to Turtle for this texture)\r\n-  7.62x54R\r\n-  7.62x25TT\r\n\r\nSpecial Thanks to:\r\n\r\nMeat_banano (Assisted with Mesh extraction)\r\nPotatoes (Dealt with my problems)\r\nPretendTurtle11 (Created the original, as well as helped me with Substance)\r\nTarkov Developers (For giving me Inspiration)\r\nAnton (For making H3VR)",
+  "ShortDescription": "Steel casings for russian calibers",
+  "Authors": ["NotWolfie"],
+  "IconUrl": "https://i.imgur.com/n0jy2nb.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/173/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YTQyNzYwOWNiMDJiNDUyNysyNjIxKzkwNw==",
+  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}
