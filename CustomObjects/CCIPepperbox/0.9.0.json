@@ -10,6 +10,7 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=ZGIxODk3MGM5NmUwODViNisrMTM2NQ==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
+    "MeatsModulShotguns": "^1.0.2",
     "LSIIC": "^1.3.0"
   }
 }

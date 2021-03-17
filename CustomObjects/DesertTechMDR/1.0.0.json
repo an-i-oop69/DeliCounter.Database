@@ -1,0 +1,15 @@
+{
+  "Name": "Desert Tech MDR",
+  "VersionNumber": "1.0.0",
+  "Description": "MDR \nTHANKS TO Meat_banono FOR SEND MODEL",
+  "ShortDescription": "5.56 bullpup \"Micro Dynamic Rifle\"",
+  "Authors": ["sgt.brooks"],
+  "IconUrl": "https://i.imgur.com/MqkxKvU.png",
+  "PreviewImageUrl": "https://i.imgur.com/MqkxKvU.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/144/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NmJlZjUwN2I1ZGFiOWMxMSsyNjIxKzc1NA==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

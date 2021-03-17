@@ -1,0 +1,15 @@
+{
+  "Name": "P2062",
+  "VersionNumber": "1.0.0",
+  "Description": "The P2062 is an updated version of the P226 used specifically for elite police forces in the year 2062.\n\nLORE\n\nThe P2062 is a one-of-a-kind pistol that fires .38 Special Cartridges using an advanced electromagnetic acceleration system, technically making it a hybrid coil gun. Currently only one pistol has survived being destroyed out of the 30 originally produced, and is still in use today. Due to its unusual ammunition it is extremely expensive to keep the weapon operable, as every magazine is loaded with a battery that powers the magnetic acceleration in the P2062's barrel.\n\nIf you can identify where I based this gun off of you're a god. ",
+  "ShortDescription": "Futuristic P226",
+  "Authors": ["Phoenixcraft99"],
+  "IconUrl": "https://i.imgur.com/cp04qtH.png",
+  "PreviewImageUrl": "https://i.imgur.com/cp04qtH.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/387/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=Y2I5NGE5MGZiY2U4MTZlNSsyNjIxKzE0NTc=",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
