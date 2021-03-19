@@ -1,0 +1,15 @@
+{
+  "Name": "Destiny Hunter Knife",
+  "VersionNumber": "1.0.1",
+  "Description": "Straight from the destiny arsenal, the hunter's knife! This model is just as large as you'd think it is, and in true destiny fashion, really good at throwing.",
+  "ShortDescription": "Hunter's knife from Destiny",
+  "Authors": ["gamernayr"],
+  "IconUrl": "https://i.imgur.com/NrphjSb.png",
+  "PreviewImageUrl": "https://i.imgur.com/NrphjSb.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/392/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YWM2NjQwOGJiMDM5NDY5ZisyNjIxKzE0Njc=",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
