@@ -1,0 +1,15 @@
+{
+  "Name": "Skeleton Knife",
+  "VersionNumber": "1.0.0",
+  "Description": "Skeleton knife (vanilla) from CS:GO. Spawn-lockable, so throw as many as you like!\n\nLocated under Melee>Throwable.",
+  "ShortDescription": "Skeleton Knife from CS:GO",
+  "Authors": ["gamernayr"],
+  "IconUrl": "https://i.imgur.com/udn1dym.png",
+  "PreviewImageUrl": "https://i.imgur.com/udn1dym.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/391/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=M2Y4NTQ3NTBmZDczYjY1MCsyNjIxKzE0NjM=",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
