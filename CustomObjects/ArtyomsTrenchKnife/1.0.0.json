@@ -1,0 +1,15 @@
+{
+  "Name": "Artyom's Trench Knife",
+  "VersionNumber": "1.0.0",
+  "Description": "This thing is surprisingly large... yes I did rescale it. \nhave fun with this one, more to come. Sorry about the lack of images.",
+  "ShortDescription": "Artyom's knife from the Metro series",
+  "Authors": ["RedLinePigeon"],
+  "IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "PreviewImageUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/390/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=OTE5ZTllMjJmOTljZjgyMCsyNjIxKzE0NjI=",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
