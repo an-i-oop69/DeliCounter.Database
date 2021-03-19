@@ -1,0 +1,15 @@
+{
+  "Name": "M3 Predator",
+  "VersionNumber": "1.0.0",
+  "Description": "The M3 Predator from the Mass Effect trilogy (we don't talk about Andromeda), now in Virtual Reality. Mildly janky but 100% accurate to the games. Sorry about the shit textures.",
+  "ShortDescription": "M3 Predator from Mass Effect",
+  "Authors": ["SovietPigeon"],
+  "IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "PreviewImageUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/389/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZTRiYzIwOTFkNTcyMDVmZSsyNjIxKzE0NjE=",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
