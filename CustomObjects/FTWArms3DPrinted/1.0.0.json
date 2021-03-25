@@ -1,0 +1,15 @@
+{
+  "Name": "FTW Arms 3D Printed Weapons",
+  "VersionNumber": "1.0.0",
+  "Description": "3D Printed Firearms",
+  "ShortDescription": "Who needs a wizbangadinger when you could get a 3D printer! Here's a few of your favorite 3d printed weapons, including the FGC-9, the WTF-9, the Songbird, the Tactical Tusk, and a Saturn Suppressor",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/zu8dFII.png",
+  "PreviewImageUrl": "https://i.imgur.com/zu8dFII.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/398/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YzI5MWZkMGU3OTMxOWI0ZSsyNjIxKzE0ODA=",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
