@@ -12,7 +12,7 @@
   "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.6.0/TakeAndHoldTweaker.Unzip.Me.zip",
   "Dependencies": {
     "BepInEx": "^5.4.5",
-    "Deli": "~0.2.5"
+    "Deli": "^0.3.0"
   },
   "InstallationSteps": [
     "extract $GAME_DIR"
