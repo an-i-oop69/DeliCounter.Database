@@ -1,18 +1,22 @@
 {
-  "VersionNumber": "1.6.0",
+  "VersionNumber": "1.6.1",
   "Name": "TNH Tweaker",
   "Description": "An H3VR plugin for modifying Take & Hold! Has support for custom characters, as well as global tweaks to spice things up.",
   "ShortDescription": "Custom TNH characters and Sosigs",
   "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
   "PreviewImageUrl": null,
   "SourceUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker",
-  "Authors": ["Devyndamonster"],
-  "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.6.0/TakeAndHoldTweaker.Unzip.Me.zip",
+  "Authors": [
+    "Devyndamonster"
+  ],
+  "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.6.1/TakeAndHoldTweaker.Unzip.Me.zip",
   "Dependencies": {
     "BepInEx": "^5.4.5",
     "Deli": "^0.3.0"
   },
-  "InstallationSteps": ["extract $GAME_DIR"],
+  "InstallationSteps": [
+    "extract $GAME_DIR"
+  ],
   "Tags": null,
   "IncompatibleTags": null,
   "IncompatibleInstalledMods": [],
