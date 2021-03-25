@@ -6,16 +6,12 @@
   "IconUrl": "https://i.imgur.com/JiymCO4.png",
   "PreviewImageUrl": "https://i.imgur.com/JiymCO4.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/369/",
-  "Authors": [
-    "Phoenixcraft99"
-  ],
+  "Authors": ["Phoenixcraft99"],
   "DownloadUrl": "https://bonetome.com/download.php?file=ZjI2ZGE4MTk4NTAyMDFkOCsrMTQzMA==",
   "Dependencies": {
     "LSIIC": "^1.3.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/VirtualObjects"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Tags": null,
   "IncompatibleTags": null,
   "IncompatibleInstalledMods": [],

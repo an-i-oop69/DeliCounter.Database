@@ -6,16 +6,12 @@
   "IconUrl": "https://i.imgur.com/lR6v0yl.png",
   "PreviewImageUrl": null,
   "SourceUrl": "https://bonetome.com/h3vr/characters/396/",
-  "Authors": [
-    "devyndamonster"
-  ],
+  "Authors": ["devyndamonster"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NDljYzVkZWFkNjcwZGM1MSs3NzYrMTQ3Ng==",
   "Dependencies": {
     "TNHTweaker": "~1.6.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/Deli/Mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
   "Tags": null,
   "IncompatibleTags": null,
   "IncompatibleInstalledMods": [],

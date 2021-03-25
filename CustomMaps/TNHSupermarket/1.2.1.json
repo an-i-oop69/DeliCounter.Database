@@ -6,16 +6,12 @@
   "IconUrl": "https://i.imgur.com/vNHhUdQ.png",
   "PreviewImageUrl": null,
   "SourceUrl": "https://bonetome.com/h3vr/map/276/",
-  "Authors": [
-    "optomarcel"
-  ],
+  "Authors": ["optomarcel"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMisrMTIzOQ==",
   "Dependencies": {
     "WurstMod": "^2.0.2"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\mods"],
   "Tags": null,
   "IncompatibleTags": null,
   "IncompatibleInstalledMods": [],

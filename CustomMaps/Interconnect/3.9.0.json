@@ -6,16 +6,12 @@
   "IconUrl": "https://i.imgur.com/1Wfs6EN.png",
   "PreviewImageUrl": null,
   "SourceUrl": "https://bonetome.com/h3vr/map/346/",
-  "Authors": [
-    "Jesus~Christo"
-  ],
+  "Authors": ["Jesus~Christo"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NjEyOWE4MWNlNTI3NTRiMCsrMTM4OQ==",
   "Dependencies": {
     "WurstMod": "^2.0.2"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/CustomLevels/TakeAndHold"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/CustomLevels/TakeAndHold"],
   "Tags": null,
   "IncompatibleTags": null,
   "IncompatibleInstalledMods": [],

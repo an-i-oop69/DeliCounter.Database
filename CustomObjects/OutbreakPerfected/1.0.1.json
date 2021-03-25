@@ -6,16 +6,12 @@
   "IconUrl": "https://i.imgur.com/aH4MHHE.png",
   "PreviewImageUrl": "https://i.imgur.com/aH4MHHE.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/111/",
-  "Authors": [
-    "LiuZuto"
-  ],
+  "Authors": ["LiuZuto"],
   "DownloadUrl": "https://bonetome.com/download.php?file=ZDAwOWNmNmRmZjFiYWZmZSsrNjgz",
   "Dependencies": {
     "LSIIC": "^1.3.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/VirtualObjects"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Tags": null,
   "IncompatibleTags": null,
   "IncompatibleInstalledMods": [],

@@ -6,18 +6,13 @@
   "IconUrl": "https://i.imgur.com/rcMDLuH.png",
   "PreviewImageUrl": null,
   "SourceUrl": "https://bonetome.com/h3vr/mods/160/",
-  "Authors": [
-    "Potatoes",
-    "Frityet"
-  ],
+  "Authors": ["Potatoes", "Frityet"],
   "DownloadUrl": "https://bonetome.com/download.php?file=MTRmZjdkYWM4M2YzNDdmNCsrODUx",
   "Dependencies": {
     "BepInEx": "^5.4.5",
     "Sideloader": "~0.3.3"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
   "Tags": null,
   "IncompatibleTags": null,
   "IncompatibleInstalledMods": [],
