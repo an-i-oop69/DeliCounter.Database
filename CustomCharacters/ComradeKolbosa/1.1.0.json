@@ -1,20 +1,20 @@
 {
-  "VersionNumber": "1.6.0",
+  "VersionNumber": "1.1.0",
   "Name": "Comrade Kolbasa",
   "Description": "A character which can only use russian and czech weaponry",
   "ShortDescription": "A character which can only use russian and czech weaponry",
-  "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
+  "IconUrl": "https://i.imgur.com/lR6v0yl.png",
   "PreviewImageUrl": null,
-  "SourceUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/396/",
   "Authors": [
     "devyndamonster"
   ],
-  "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.6.0/TakeAndHoldTweaker.Unzip.Me.zip",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NDljYzVkZWFkNjcwZGM1MSs3NzYrMTQ3Ng==",
   "Dependencies": {
-    "TNHTweaker": "~1.5.0"
+    "TNHTweaker": "~1.6.0"
   },
   "InstallationSteps": [
-    "move mods/ComradeKolbasa.deli"
+    "extract $GAME_DIR/Deli/Mods"
   ],
   "Tags": null,
   "IncompatibleTags": null,
