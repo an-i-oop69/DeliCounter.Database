@@ -12,10 +12,10 @@
   "DownloadUrl": "https://github.com/ash-hat/Wristimate/releases/download/v1.1.0/Wristimate.deli",
   "Dependencies": {
     "BepInEx": "^5.4.5",
-    "Deli": "~0.2.5"
+    "Deli": "~0.3.0"
   },
   "InstallationSteps": [
-    "move mods\\Wristimate.deli"
+    "move deli\\mods\\Wristimate.deli"
   ],
   "Tags": null,
   "IncompatibleTags": null,
