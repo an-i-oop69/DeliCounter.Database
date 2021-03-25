@@ -1,0 +1,15 @@
+{
+  "Name": "Modern Warfare M4A1 ",
+  "VersionNumber": "1.0.0",
+  "Description": "\"We get dirty and the world stays clean.\"\r\n\r\nThe Modern Warfare M4A1!\r\n\r\nThe iconic Assault Rifle from media all over appears in its Modern Warfare flesh!\r\nFirst time doing a weapon for H3VR, so there are a couple minor issues, but all of them are just things that I would love to just touch up in the future (Literally Unplayable). Nothing that would effect gameplay or immersion!\r\n\r\nHuge shoutout to the H3VR Homebrew Discord, they helped me a bunch!\r\n\r\nCredits:\r\nModels\/Sounds - Infinity Ward",
+  "ShortDescription": "The Modern Warfare M4A1",
+  "Authors": ["Supurfly83"],
+  "IconUrl": "https://i.imgur.com/jccMLTR.jpeg",
+  "PreviewImageUrl": "https://i.imgur.com/jccMLTR.jpeg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/400/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MmYyYTQ3ODg2YTg1Y2IyMisyNjIxKzE0ODI=",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}
