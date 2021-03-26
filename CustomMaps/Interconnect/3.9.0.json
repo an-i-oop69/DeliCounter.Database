@@ -4,7 +4,6 @@
   "Description": "a desert TNH map in a compound with 10 supply and 5 holds",
   "ShortDescription": "10 supply 5 hold ",
   "IconUrl": "https://i.imgur.com/1Wfs6EN.png",
-  "PreviewImageUrl": null,
   "SourceUrl": "https://bonetome.com/h3vr/map/346/",
   "Authors": ["Jesus~Christo"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NjEyOWE4MWNlNTI3NTRiMCsrMTM4OQ==",
@@ -12,8 +11,5 @@
     "WurstMod": "^2.0.2"
   },
   "InstallationSteps": ["extract $GAME_DIR/CustomLevels/TakeAndHold"],
-  "Tags": null,
-  "IncompatibleTags": null,
-  "IncompatibleInstalledMods": [],
   "IsBeta": false
 }

@@ -4,7 +4,6 @@
   "Description": "Welcome To Tarkov!\n\nThis character is themed around the game Escape From Tarkov. Start out as a hatchet runner, and take on increasingly difficult enemies. Enemies can drop items and equipment. Additionally, each round has a chance for a scav boss to spawn as a patrol. These bosses are very difficult, but will always drop some kind of item.",
   "ShortDescription": "Escape From Tarkov based TNH Character",
   "IconUrl": "https://i.imgur.com/eqCLNul.png",
-  "PreviewImageUrl": null,
   "SourceUrl": "https://bonetome.com/h3vr/characters/269/",
   "Authors": ["devyndamonster"],
   "DownloadUrl": "https://bonetome.com/download.php?file=ZWM1MThmZTdiMzNmMDZkYisrMTIxNg==",
@@ -12,8 +11,5 @@
     "TNHTweaker": "~1.6.0"
   },
   "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
-  "Tags": null,
-  "IncompatibleTags": null,
-  "IncompatibleInstalledMods": [],
   "IsBeta": false
 }

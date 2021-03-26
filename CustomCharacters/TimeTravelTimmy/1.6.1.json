@@ -4,7 +4,6 @@
   "Description": "Progress through each age of weaponry, from wild west to modern",
   "ShortDescription": "Progress through each age of weaponry, from wild west to modern",
   "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
-  "PreviewImageUrl": null,
   "SourceUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/",
   "Authors": [
     "devyndamonster"
@@ -16,8 +15,5 @@
   "InstallationSteps": [
     "move mods/TimeTravelTimmy.deli"
   ],
-  "Tags": null,
-  "IncompatibleTags": null,
-  "IncompatibleInstalledMods": [],
   "IsBeta": false
 }

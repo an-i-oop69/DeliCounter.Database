@@ -4,7 +4,6 @@
   "Description": "My very first map, set in a supermarket in broad daylight.\nComes in 2 versions, funky and normal. Funky contains some royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic\nFeatures 10 supply and 6 hold points.\nLet me know if you have any issues/ideas.\nThanks and have fun playing",
   "ShortDescription": "Supermarket themed TNH map",
   "IconUrl": "https://i.imgur.com/vNHhUdQ.png",
-  "PreviewImageUrl": null,
   "SourceUrl": "https://bonetome.com/h3vr/map/276/",
   "Authors": ["optomarcel"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMisrMTIzOQ==",
@@ -12,8 +11,5 @@
     "WurstMod": "^2.0.2"
   },
   "InstallationSteps": ["extract $GAME_DIR\\mods"],
-  "Tags": null,
-  "IncompatibleTags": null,
-  "IncompatibleInstalledMods": [],
   "IsBeta": false
 }

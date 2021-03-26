@@ -4,7 +4,6 @@
   "Description": "An H3VR plugin for modifying Take & Hold! Has support for custom characters, as well as global tweaks to spice things up.",
   "ShortDescription": "Custom TNH characters and Sosigs",
   "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
-  "PreviewImageUrl": null,
   "SourceUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker",
   "Authors": [
     "Devyndamonster"
@@ -17,8 +16,5 @@
   "InstallationSteps": [
     "extract $GAME_DIR"
   ],
-  "Tags": null,
-  "IncompatibleTags": null,
-  "IncompatibleInstalledMods": [],
   "IsBeta": false
 }
