@@ -6,15 +6,11 @@
   "IconUrl": "https://i.imgur.com/Prrtu1z.png",
   "PreviewImageUrl": "https://i.imgur.com/Prrtu1z.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/395/",
-  "Authors": [
-    "gamernayr"
-  ],
+  "Authors": ["gamernayr"],
   "DownloadUrl": "https://bonetome.com/download.php?file=YTg2OWEwNTc1ZGM0N2IxNCsrMTQ3Mg==",
   "Dependencies": {
     "LSIIC": "^1.3.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/VirtualObjects"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "IsBeta": false
 }
