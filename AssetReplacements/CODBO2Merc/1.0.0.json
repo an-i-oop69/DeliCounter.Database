@@ -1,0 +1,14 @@
+{
+  "Name": "CODBO2Merc",
+  "VersionNumber": "1.0.0",
+  "Description": "Bring out the nostalgia goggles, it's go time. This is the Call of Duty - Black Ops 2 Announcer for team Mercs, whether it's the greatest in-game announcer Activision has ever made or not? Debatable. But I liked it so much I wanted to bring it to H3VR. The voicelines and titlecard all belong to Activision (C'mon I'm just a weeb, if you wanted to hear my voice find my Walter or Warden TNH Announcers)",
+  "ShortDescription": "TNH Announcer",
+  "Authors": ["Sora101Ven"],
+  "IconUrl": "https://i.imgur.com/tBBfq53.png",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/384/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MTAwNjM5OGFjYzI2Yjg0MSsyNzk0KzE0NTE=",
+  "InstallationSteps": ["extract $GAME_DIR/mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}
