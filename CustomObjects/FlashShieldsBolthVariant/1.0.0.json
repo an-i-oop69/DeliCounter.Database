@@ -1,0 +1,14 @@
+{
+  "Name": "Flash Shields Bolth",
+  "VersionNumber": "1.0.0",
+  "Description": "Adds a functioning flash shield to the game. The shield is powered by 23mm Batteries, spawn one from the ammo spawner, open the battery compartment with a side press on the touchpad, insert the battery, and close it with another touchpad press. Activate the flash with the trigger when necessary, and then you can open the battery compartment up again and tilt the shield to discard the empty battery. Note that opening the battery compartment primes the flash system, indicated by the status light turning green: if you hit the trigger while it's open on accident, you can just open and close it again to re-arm it.",
+  "ShortDescription": "Bolth Shield Varients",
+  "Authors": ["Shampooh"],
+  "IconUrl": "https://i.imgur.com/kBLUAoE.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/349/",
+  "DownloadUrl": "https://github.com/Slingv007/Flash-Shield/releases/download/1.0.0/FlashShieldBoth.zip",
+  "InstallationSteps": ["extract $GAME_DIR/mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}
