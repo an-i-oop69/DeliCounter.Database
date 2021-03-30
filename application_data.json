@@ -1,5 +1,5 @@
 {
-  "LatestApplicationVersion": "0.1.12",
-  "UpdateText": "- Added a missing null check causing search page to crash",
-  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v0.1.12"
+  "LatestApplicationVersion": "0.2.1",
+  "UpdateText": "- Some stuff. If you don't have this yet go get it!",
+  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v0.2.1"
 }
