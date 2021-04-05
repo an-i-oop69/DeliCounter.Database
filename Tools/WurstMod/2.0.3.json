@@ -15,7 +15,7 @@
     "Deli": "~0.3.1"
   },
   "InstallationSteps": [
-    "move mods\\WurstMod.deli"
+    "move Deli\\mods\\WurstMod.deli"
   ],
   "IsBeta": false
 }
