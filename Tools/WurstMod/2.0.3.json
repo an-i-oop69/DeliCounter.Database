@@ -12,7 +12,7 @@
   "DownloadUrl": "https://github.com/WurstModders/WurstMod/releases/download/v2.0.3/WurstMod.deli",
   "Dependencies": {
     "BepInEx": "^5.4.5",
-    "Deli": "~0.2.5"
+    "Deli": "~0.3.1"
   },
   "InstallationSteps": [
     "move mods\\WurstMod.deli"
