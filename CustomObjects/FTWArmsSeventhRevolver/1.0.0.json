@@ -1,0 +1,14 @@
+{
+  "Name": "FTW Arms Seventh Seraph Revolver",
+  "VersionNumber": "1.0.0",
+  "Description": "For the first time ever, FTW Arms presents the Seventh Seraph Revolver with removable cylinders! You can smack them out using another cylinder, or use the mag release. Thank you to Nikpo for the model and beautiful textures.",
+  "ShortDescription": "FTW Arms presents the Seventh Seraph Revolver with removable cylinders!",
+  "Authors": ["Andrew_FTW", "Nikpo"],
+  "IconUrl": "https://i.imgur.com/emaAYOM.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/405/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MjFjMGQwMmVlYmI4MDE4MysrMTQ5Mg==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

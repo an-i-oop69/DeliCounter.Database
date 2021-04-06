@@ -9,6 +9,7 @@
   "DownloadUrl": "https://github.com/BlockBuilder57/LSIIC/releases/download/v1.3/LSIIC-v1.3.zip",
   "InstallationSteps": ["extract $GAME_DIR"],
   "Dependencies": {
-    "Deli": "~0.2.5"
+    "BepInEx": "^5.4.5",
+    "BepInEx.MonoMod": "^1.0.0"
   }
 }

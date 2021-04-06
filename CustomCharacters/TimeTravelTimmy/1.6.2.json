@@ -1,0 +1,19 @@
+{
+  "VersionNumber": "1.6.2",
+  "Name": "Time Travel Timmy",
+  "Description": "Progress through each age of weaponry, from wild west to modern",
+  "ShortDescription": "Progress through each age of weaponry, from wild west to modern",
+  "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
+  "SourceUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/",
+  "Authors": [
+    "devyndamonster"
+  ],
+  "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.6.2/TakeAndHoldTweaker.Unzip.Me.zip",
+  "Dependencies": {
+    "TNHTweaker": "~1.5.0"
+  },
+  "InstallationSteps": [
+    "move mods/TimeTravelTimmy.deli"
+  ],
+  "IsBeta": false
+}

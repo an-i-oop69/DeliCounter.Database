@@ -1,0 +1,16 @@
+{
+  "Name": "Shampooh's Magazine(s)",
+  "VersionNumber": "1.0.0",
+  "Description": "It's a set of magazines. Sorta. At a literal level there's more than one magazine right now, but they're just reskins. In time, this will include more magazines with a particular focus on anything I can find with nicely modeled springs and windows. Heck, I'm already sitting on a few models folks have shared with me and more ideas of things to pull out of MW.\r\n\r\nCurrently contains:\r\n\r\nMW'19's MCX Magazines, 3 skins - Found in Assault Rifles category\r\n\r\nCredits\r\n\r\nAll assets from Modern Warfare '19\r\nVery big thank you to Potatoes for implementing the model swapping functionality for mag followers into H3VR utils, without which this wouldn't be nearly as nice as it is\r\n\r\nTo do:\r\n\r\n* Actual accurate Lancer magazine\r\n* PMAG with useful window\r\n* MW's AN-94 magazine for 5.45\r\n* Recycle the spring and follower from that for a 7.62 magazine maybe?\r\n* MW's P90 magazines",
+  "ShortDescription": "Magazines with modeled followers and springs",
+  "Authors": ["Shampooh"],
+  "IconUrl": "https://i.imgur.com/Zi1tHOh.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/Zi1tHOh.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/350/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZWJmM2VmNzc1NTU2ODZkYisrMTM5NQ==",
+  "InstallationSteps": ["extract $GAME_DIR/Mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3",
+    "H3VRUtils": "^6.0.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Dump-O-Matic",
+  "VersionNumber": "0.9.4",
+  "Description": "The Dump-o-matic is the pinnacle of abusive consumerism!\nThis handgun holds up 8 rounds of 9mm Parabellum, with how poorly it is made, it would be surprising if it could fire one more...\nIt is spawnlockable, so once empty, spawn a new one, rack it and off you go!\nEven empty, this is deadly ! Your character throws this gun 2.5x times harder than any other guns and deals 2x the melee damage\nThere is also a golden unlimited ammo version, just for giggles",
+  "ShortDescription": "Spawnlockable pistol",
+  "Authors": ["KamikazeF0X"],
+  "IconUrl": "https://i.imgur.com/iDvuAE9.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/iDvuAE9.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/334/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZDg4YmM0NjhhYTJhOWZhNysrMTM2Ng==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.1.0",
+  "Name": "Comrade Kolbasa",
+  "Description": "A TNH character that uses Russian and Czech weapons!\nI HIGHLY recommend that you play with the supported gun mods installed, as default equipment pools are somewhat slim\n\nSupported Mods:\n- Shampoohs Flash Shield\n- Meats ASh-12\n- Meats Magazines\n- Meats ModulAK\n- KamikazeFOXs ModulAR\n- Meats ModulAR Parts\n- Potatoes Gun Mod\n- Meats ModulShotguns\n- Carkidds Stechkin APS\n- FTW Arms VPO-215",
+  "ShortDescription": "A TNH character that uses Russian and Czech weapons",
+  "IconUrl": "https://i.imgur.com/lR6v0yl.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/396/",
+  "Authors": ["devyndamonster"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=NDljYzVkZWFkNjcwZGM1MSs3NzYrMTQ3Ng==",
+  "Dependencies": {
+    "TNHTweaker": "~1.6.0"
+  },
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "IsBeta": false
+}

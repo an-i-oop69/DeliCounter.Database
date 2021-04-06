@@ -1,0 +1,15 @@
+{
+  "Name": "TEC-30",
+  "VersionNumber": "1.0.0",
+  "Description": "This is a beefier version of the TEC-9, the TEC-30!\r\nIt features Semi-Automatic fire, no safety (Who needs that anyways) and a practicaly useless iron sight\r\nIt takes M1 Carbine and M2 Carbine mags\r\n\r\nRight now, muzzle attachments are broken",
+  "ShortDescription": "TEC-9 in .30 Carbine",
+  "Authors": ["KamikazeFOX"],
+  "IconUrl": "https://i.imgur.com/2GF4Jkw.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/2GF4Jkw.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/123/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NTQxNjE4MDIwOWY5MDhkMisyNjIxKzcwNg==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

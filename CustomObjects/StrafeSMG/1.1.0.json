@@ -1,0 +1,15 @@
+{
+  "Name": "Strafe SMG",
+  "VersionNumber": "1.1.0",
+  "Description": "FROM THE BLOODIEST GAME OF 1996, THIS GUN IS READY TO RETURN TO THE WORLD TO SLAUGHTER NEW BLOOD. NOW IN VIRTUAL REALITY AND PAINSTAKINGLY MADE ACCURATE. ORDER NOW!",
+  "ShortDescription": "SMG from Strafe (1996)",
+  "Authors": ["Gunlovers"],
+  "IconUrl": "https://i.imgur.com/7ydOEmU.png",
+  "PreviewImageUrl": "https://i.imgur.com/7ydOEmU.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/321/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YTAzODVmM2NkYWViMDQ0MCsrMTM0OA==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

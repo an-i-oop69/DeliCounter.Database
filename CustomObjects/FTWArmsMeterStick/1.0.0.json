@@ -1,0 +1,15 @@
+{
+  "Name": "FTW Arms Meter Stick",
+  "VersionNumber": "1.0.0",
+  "Description": "Its a meter stick, not much else. Please note, the inches ARE NOT accurate.",
+  "ShortDescription": "Meter Stick",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/hqvEaX0.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/hqvEaX0.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/362/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=M2E1MzQwYTIyODA3MTk1MSsrMTQxMw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

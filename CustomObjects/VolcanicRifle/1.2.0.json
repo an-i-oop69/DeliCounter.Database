@@ -1,0 +1,15 @@
+{
+  "Name": "Volcanic Rifle",
+  "VersionNumber": "1.2.0",
+  "Description": "This is a Rifle version of the Volcanic Pistol, it features a Model 8 scope attachment if you want to try to take down a paper target a hundred meters away\r\nAnd have you ever noticed how difficult it is to shoot down a sosig with a Volcanic pistol? Do you ever wanted more than 8 shots? Say no more! This Rifle version of the Volcanic don't contains only 20 nor 30 rounds but a whopping 24 rounds!",
+  "ShortDescription": "Rifle version of the Volcanic Pistol",
+  "Authors": ["KamikazeFOX"],
+  "IconUrl": "https://i.imgur.com/PuUNBIR.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/PuUNBIR.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/100/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MGY1MjA4Yzg0MTFkNmM0NCsyNjIxKzYzNw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

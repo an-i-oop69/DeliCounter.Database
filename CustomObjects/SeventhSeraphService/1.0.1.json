@@ -1,0 +1,16 @@
+{
+  "VersionNumber": "1.0.1",
+  "Name": "Seventh Seraph Service Revoler (Destiny 2)",
+  "Description": "First gun I've made so it was a good learning experience.\n\nLots of work to do still on it, including getting the sights working. For now, there's an invisible rail on top and I highly recommend you use it. \n\nIt accepts .357 magnum and if you want to use a speedloader there is one under the Unica6. It might look like the bullets won't line up with the loader but thanks to Anton that's not a problem. The chambers are supposed to look wonky, no need for concern. \n\nLet me know if you find anything!\n\nIntall by extracting the files to your VirtualObjects folder.",
+  "ShortDescription": "Revolver from Destiny 2",
+  "IconUrl": "https://i.imgur.com/Prrtu1z.png",
+  "PreviewImageUrl": "https://i.imgur.com/Prrtu1z.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/395/",
+  "Authors": ["gamernayr"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=YTg2OWEwNTc1ZGM0N2IxNCsrMTQ3Mg==",
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  },
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "IsBeta": false
+}

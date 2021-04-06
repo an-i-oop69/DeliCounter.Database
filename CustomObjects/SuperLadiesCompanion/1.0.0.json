@@ -1,0 +1,15 @@
+{
+  "Name": "Super Ladies Companion",
+  "VersionNumber": "1.0.0",
+  "Description": "The Ladies Companion is a nice pepper-box kind of pocket pistol\r\nBut it's a small gun, for small pockets\r\n\r\nThis is why I propose to you to carry the gun that is made for the ones who have deep pockets\r\nIt's longer, but also meaner! It got upgraded from the tiny little wimpy .22LR to the glorious and powerful .22WMR!\r\n\r\nAnd it even features hidden attachments points! For extra tacticoolness!\r\n\r\n(Muzzle attachments are broken on this one too, oops)",
+  "ShortDescription": "Ladies Companion but longer and in .22WMR",
+  "Authors": ["KamikazeFOX"],
+  "IconUrl": "https://i.imgur.com/qboA4OO.png",
+  "PreviewImageUrl": "https://i.imgur.com/qboA4OO.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/125/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YWU3MzI4MzQ4NTg2YmJiMSsyNjIxKzcwOA==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

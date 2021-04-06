@@ -1,0 +1,15 @@
+{
+  "Name": "M1014 Picatinny Sights",
+  "VersionNumber": "1.0.0",
+  "Description": "This is a pair of Iron Sights found on M1014 but modified for Picatinny rails",
+  "ShortDescription": "Iron sights from the m1014",
+  "Authors": ["KamikazeF0X"],
+  "IconUrl": "https://i.imgur.com/FIDB1pr.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/FIDB1pr.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/354/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MjFmYzVjMzUxNzI3MTcyNisrMTQwMQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

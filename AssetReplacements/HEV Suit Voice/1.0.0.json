@@ -1,0 +1,14 @@
+{
+  "Name": "HEV Suit Voice",
+  "VersionNumber": "1.0.0",
+  "Description": "My first mod, let me know what you think. Sentence-mixed using original Half-Life 1 sound files. Done in Audacity. Shoutouts to Sora101Ven for providing the Build A TnH Announcer package!",
+  "ShortDescription": "TNH Announcer",
+  "Authors": ["schkuromi"],
+  "IconUrl": "https://i.imgur.com/cs8sngr.png",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/277/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NGRkZmYwNzk3NDk4NjEwNCsrMTI0NQ==",
+  "InstallationSteps": ["extract $GAME_DIR/mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}

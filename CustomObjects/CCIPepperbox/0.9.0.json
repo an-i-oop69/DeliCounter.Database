@@ -1,0 +1,16 @@
+{
+  "Name": "CCI Pepperbox",
+  "VersionNumber": "0.9.0",
+  "Description": "Uses ModulShotguns for the stocks and grips!\n\nThis 50 barrels break action .22 Long Rifle gun can either be a fun little plinker or an angry swarm of bees thanks to the selector on the left side of the reciver! This selector allows you to fire all the 50 barrels!\n\nNote :\nIn the future, if the break actions guns will have speedloaders, this will take a box of ammo like the ones from CCI (hence the name of the gun)",
+  "ShortDescription": "50 barrel break action in .22 lr",
+  "Authors": ["KamikazeF0X"],
+  "IconUrl": "https://i.imgur.com/FGGLzWF.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/FGGLzWF.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/333/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZGIxODk3MGM5NmUwODViNisrMTM2NQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "MeatsModulShotguns": "^1.0.2",
+    "LSIIC": "^1.3.0"
+  }
+}

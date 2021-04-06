@@ -1,0 +1,15 @@
+{
+  "Name": "45° Barrel extension",
+  "VersionNumber": "1.0.0",
+  "Description": "Guns always shoots forwards, and this is boring!\r\nThanks to this barrel extension, you will be able to curve your bullets!\r\n\r\nDue to how the game works, there is four attachments for the four directions you can put them in, Up, Down, Left and... Right, Right!\r\n\r\n(For some other reasons, muzzle flash always points forwards, I haven't got to figure out why)",
+  "ShortDescription": "Bent barrel extensions",
+  "Authors": ["KamikazeFOX"],
+  "IconUrl": "https://i.imgur.com/QmKNm4I.png",
+  "PreviewImageUrl": "https://i.imgur.com/QmKNm4I.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/124/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZTQxZjg1NDAxZDY0NDhjNisyNjIxKzcwNw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

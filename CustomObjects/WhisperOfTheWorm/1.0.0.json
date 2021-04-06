@@ -1,0 +1,15 @@
+{
+  "Name": "Whisper Of The Worm - WIP",
+  "VersionNumber": "1.0.0",
+  "Description": "A Guardian's power makes a rich feeding ground.\r\nDo not be revolted.\r\nThere are parasites that may benefit the host...\r\nTeeth sharper than your own.\r\n\r\nDescription from Destiny 2.\r\n\r\n------------------- Disclamer -----------------\r\n\r\nUnder CC Attribution 4.0 License : https://creativecommons.org/licenses/by/4.0/\r\nModel made by ; Bungie\r\n\r\n-----------------------------------------------\r\n\r\nContain ; \r\nThe Whisper of the Worm and its Magazine.\r\nTop Rail and Suppressor mounting compatibility.\r\n\r\nUse 30-06 Springfield AP Incendiary (For 2 reasons ; Solar Damage in Destiny 2 and this is the only caliber that fits fell in the magazine).\r\n\r\nThe weapon is found under Anti-Material category.",
+  "ShortDescription": "The Whisper of the Worm from Destiny 2",
+  "Authors": ["LiuZuto"],
+  "IconUrl": "https://i.imgur.com/IOdy0eA.png",
+  "PreviewImageUrl": "https://i.imgur.com/IOdy0eA.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/116/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NmRkOWFlMTM3ZGE2MGY1NCsyNjIxKzY5Ng==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

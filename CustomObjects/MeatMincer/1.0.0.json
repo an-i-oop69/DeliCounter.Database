@@ -1,0 +1,15 @@
+{
+  "Name": "Meat Mincer",
+  "VersionNumber": "1.0.0",
+  "Description": "This is a simple meat mincer... That shoots bullets like a gatling!\r\nFill the hopper with ammo, and off you go!\r\n\r\nManually install Cursed.DLLs to load this thing, so it will take anything you throw inside\r\nOtherwise, you will be only able to feed it 9mm Parabellum\r\n\r\nThis is in the item spawner as a Support > Machine Gun \r\n\r\nDon't forget, you can't snapturn with ammo in the hopper and you must be gentile while moving it full, physics in games aren't quite made for that kind of dumb gat!\r\n\r\nThere will be two bugs due to how it is set up :\r\nYou must attach a barrel extender if you want to attach a suppressor\r\nYou can't attach bipods",
+  "ShortDescription": "Meat Mincer Gatling Gun",
+  "Authors": ["KamikazeF0X"],
+  "IconUrl": "https://i.imgur.com/s4ZS58s.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/s4ZS58s.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/356/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MzI2MTdlYWE0NjFjNGNiYSsrMTQwNg==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

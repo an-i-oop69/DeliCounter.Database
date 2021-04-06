@@ -1,0 +1,15 @@
+{
+  "Name": "Modern Warfighter Rails",
+  "VersionNumber": "1.1.0",
+  "Description": "Adds an assortment of MLOK rails and risers that allow for further customization of weapons.\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nCONTENTS\r\n\r\n- UTG Risers (.5\"/.75\"/1\" heights in 3-slot and 13 slot lengths)\r\n- MLOK Rails (FDE/OD/Black colors in 3-slot, 5-slot, 7-slot, 9-slot, 11-slot, and cantilever-type rails)\r\n- LWRC RailSkin rail covers (Black, Brown, FDE, OD Green, Red, Orange, Yellow, Green, Blue, Indigo, Violet)\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nDONATE\r\n\r\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\r\nhttps://ko-fi.com/jayyden\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWanting more lights and lasers for your guns? Check out the Modern Warfighter Lights And Lasers mod, linked below:\r\nhttps://bonetome.com/h3vr/weapons/308/\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWant a larger assortment of optics to play with? Check out the Modern Warfighter Optics mod here:\r\nhttps://bonetome.com/h3vr/weapons/336/\n",
+  "ShortDescription": "Modern Rails and Risers",
+  "Authors": ["Jayyden"],
+  "IconUrl": "https://i.imgur.com/f4ygZx5.png",
+  "PreviewImageUrl": "https://i.imgur.com/f4ygZx5.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/374/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NGYzOTIyOGQ3YjQ2ZGQ2OCsyNjIxKzE0MzY=",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "SCR Rifle",
+  "VersionNumber": "1.1.0",
+  "Description": "This is a rifle version of the SCR Pistol\r\nIt features a hidden bottom rail and a hidden top rail on the wooden foregrip",
+  "ShortDescription": "AR-15 with a Remington 870 stock",
+  "Authors": ["KamikazeFOX"],
+  "IconUrl": "https://i.imgur.com/YP3kJc5.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/YP3kJc5.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/99/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NzRkM2NkMWIxYTNkZGNmZisyNjIxKzYzNg==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

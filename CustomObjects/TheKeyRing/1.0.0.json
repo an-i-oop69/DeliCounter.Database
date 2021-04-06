@@ -1,0 +1,15 @@
+{
+  "Name": "The Key Ring",
+  "VersionNumber": "1.0.0",
+  "Description": "This adds 6 new underbarrel firearms on the base of the already in game \"Spare Key\" and the \"House Key\"\r\n\r\nThe Scooter Key - A tiny one chambered in 12ga short\r\nThe Tractor Key - A quite rural one that shoots military grade 50mm... potatoes\r\nThe Truck Key - A punchy gun that fires 20x82mm rounds\r\nThe Boat Key - A pocket solution for .50BMG \r\nThe Plane Key - A useful one that uses 27x90mm (Oversized Kolibri rounds)\r\nThe Safe Key - A mortar that attaches under any big enough guns that can whistand the power of .45ACP Oversized!",
+  "ShortDescription": "Underbarrel Firearms",
+  "Authors": ["KamikazeFOX"],
+  "IconUrl": "https://i.imgur.com/qlHAiio.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/qlHAiio.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/339/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MGViMzFhYTE3ZmEzMDEzYysrMTM3Nw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

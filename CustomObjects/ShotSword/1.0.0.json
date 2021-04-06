@@ -1,0 +1,15 @@
+{
+  "Name": "ShotSword",
+  "VersionNumber": "1.0.0",
+  "Description": "Caution! This mod appears to not work with some people, I'm trying to fix this but this takes me some time as I don't own the headsets where the problem occurs, sorry.\r\n\r\nThis is a quite dangerous sword, but also a deadly shotgun!\r\nLoad this weapon with Dragon's Breath ammo and unleash terror among sliced and grilled sosigs!\r\n\r\nThe weapon is in \"Shotguns > Tube Fed\"\r\nIt holds 3 rounds in the internal mag plus one in the chamber\r\nIt features a \"Hidden\" attachment point on the top for stuff like a laser pointer",
+  "ShortDescription": "Shotgun/Sword Combination",
+  "Authors": ["KamikazeF0X"],
+  "IconUrl": "https://i.imgur.com/LqwX7tY.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/LqwX7tY.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/345/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MWE4YzljOTk3YzkxYTY0YSsrMTM4NQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

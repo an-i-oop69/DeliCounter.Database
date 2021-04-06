@@ -1,0 +1,15 @@
+{
+  "Name": "More Tilt Rails",
+  "VersionNumber": "1.0.0",
+  "Description": "Adds two new tilt rails: 30 degrees and 45 degrees. Why, you ask? I needed a camera rig for my magazine video and wanted to have the rail cam looking dead on at the magazine. And maybe someone else can think of something else interesting to do with these, I know a few folks have mentioned that this could be practical for grenade launchers.\r\n\r\nCredits\r\n\r\nAll assets from H3VR",
+  "ShortDescription": "Rail extensions at 30 and 45 degrees",
+  "Authors": ["Shampooh"],
+  "IconUrl": "https://i.imgur.com/VBHEIFS.png",
+  "PreviewImageUrl": "https://i.imgur.com/VBHEIFS.png",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/351/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZWY2OTgzZWE0YmQ2Y2Q0NisyNjIxKzEzOTc=",
+  "InstallationSteps": ["extract $GAME_DIR/Mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}

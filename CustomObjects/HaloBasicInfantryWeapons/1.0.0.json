@@ -1,0 +1,15 @@
+{
+  "Name": "Halo: Basic Infantry Weapons",
+  "VersionNumber": "1.0.0",
+  "Description": "Contains the most common and basic infantry weapons from the Halo serios.\r\nContains:\r\nMA5D (default + 2 alternate skins), 7.62. 36rnd magazine\r\nM6C, .50AE, 12rnd magazine\r\nPlasma Rifle (Compound Pistol style overheat)\r\nPlasma Pistol (Compound Pistol style overheat)\r\nAttachments:\r\nMA5D: Has a top and bottom picatinny rail, alongside a hidden rail inside the flashlight and a M1 bayonet mount at the barrel. Barrel also allows normal barrel attachments.\r\nM6C: Barrel attachment slot.\r\nPlasma Rifle: Top picatinny rail\r\nPlasma Pistol: Tottom picatinny rail\r\n\r\nModel/texture credits as follows:\r\nPolingo: For ripping and porting.\r\nMicrosoft/343 Industries: For models and textures.\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2104733034\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2104722136",
+  "ShortDescription": "Common Halo Weapons",
+  "Authors": ["xo-11"],
+  "IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "PreviewImageUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/153/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NzYyYzFjZDdkNjk0MTAwOCsyNjIxKzgxNg==",
+  "InstallationSteps": ["extract $GAME_DIR/Mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}
