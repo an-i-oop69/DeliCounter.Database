@@ -7,7 +7,7 @@
   "IconUrl": "https://i.imgur.com/tlqf3rh.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/181/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MmI5NzlkOTRkZTI3MzUyYyszODErOTQw",
-  "InstallationSteps": ["extract Deli\\mods\\"],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
   "Dependencies": {
     "WurstMod": "^2.0.3"
   }
