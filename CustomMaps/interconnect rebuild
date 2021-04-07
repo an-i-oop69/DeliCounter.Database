@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "4.0.0",
+  "Name": "Interconnect rebuild",
+  "Description": "a desert TNH map in a compound with 12 supply and 6 holds",
+  "ShortDescription": "12 supply 6 hold ",
+  "IconUrl": "https://i.imgur.com/1Wfs6EN.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/414/",
+  "Authors": ["Jesus~Christo"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=NzM0MzlkMDZkNTI0Yjg1NisyNDAxKzE1MjE=",
+  "Dependencies": {
+    "WurstMod": "2.0.2"
+  },
+  "InstallationSteps": ["extract $GAME_DIR/CustomLevels/TakeAndHold"],
+  "IsBeta": false
+}
