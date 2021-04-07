@@ -9,6 +9,6 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=YmQ1ZWFmZjgzZWU3NzVmMiszODErOTk4",
   "InstallationSteps": ["extract $GAME_DIR\\Mods"],
   "Dependencies": {
-    "WurstMod": "^2.0.2"
+    "WurstMod": "2.0.2"
   }
 }
