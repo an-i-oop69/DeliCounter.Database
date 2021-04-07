@@ -8,7 +8,7 @@
   "Authors": ["optomarcel"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMisrMTIzOQ==",
   "Dependencies": {
-    "WurstMod": "^2.0.2"
+    "WurstMod": "2.0.2"
   },
   "InstallationSteps": ["extract $GAME_DIR\\mods"],
   "IsBeta": false
