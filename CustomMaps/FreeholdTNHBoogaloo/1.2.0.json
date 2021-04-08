@@ -2,13 +2,13 @@
   "Name": "Freehold 2 T&H Boogaloo",
   "VersionNumber": "1.2.0",
   "Description": "TNH map of Freehold ported by Tug and optimized by Marcel.",
-  "ShortDescription": "TNH white house map",
+  "ShortDescription": "TNH Freehold map",
   "Authors": ["Marcel", "Tug"],
   "IconUrl": "https://i.imgur.com/DS0MRWI.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/388/",
   "DownloadUrl": "https://bonetome.com/download.php?file=NGU2NmUyNDgzMjFjMjZjZis3NzYrMTQ1OQ==",
   "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
   "Dependencies": {
-    "WurstMod": "2.0.3"
+    "WurstMod": "^2.0.3"
   }
 }
