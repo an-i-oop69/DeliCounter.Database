@@ -1,0 +1,14 @@
+{
+  "Name": "Hotel Hotlink",
+  "VersionNumber": "1.0.0",
+  "Description": "This is a TNH map with 10 holds set in a luxury resort that has been taken over by sinister merc-weiners! And for the first time ever, breakable glass is in H3!",
+  "ShortDescription": "TNH hotel map",
+  "Authors": ["SirPotatos"],
+  "IconUrl": "https://i.imgur.com/UgS1J9m.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/412/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YWY2NTIwYWNhZjljOTg3ZSs3NzYrMTUxNg==",
+  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
+  "Dependencies": {
+    "WurstMod": "2.0.2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "TNH White House",
+  "VersionNumber": "1.1.0",
+  "Description": "TNH White House Map.",
+  "ShortDescription": "TNH white house map",
+  "Authors": ["Marcel"],
+  "IconUrl": "https://i.imgur.com/BIz4LnM.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/410/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YTVlMWQzZDQ3Yzg0ZmRjMys3NzYrMTUwNg==",
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
+  "Dependencies": {
+    "WurstMod": "2.0.3"
+  }
+}
