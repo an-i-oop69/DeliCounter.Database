@@ -13,7 +13,7 @@
     "WurstMod": "2.0.2"
   },
   "InstallationSteps": [
-    "extract $GAME_DIR\\Mods"
+    "extract $GAME_DIR\\Deli\\mods"
   ],
   "IsBeta": false
 }
