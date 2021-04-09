@@ -5,16 +5,12 @@
   "ShortDescription": "Shows aproximent rounds in mag under held magazine",
   "IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
   "SourceUrl": "https://github.com/ash-hat/Wristimate",
-  "Authors": [
-    "ash-hat"
-  ],
+  "Authors": ["ash-hat"],
   "DownloadUrl": "https://github.com/ash-hat/Wristimate/releases/download/v1.2.0/Wristimate.deli",
   "Dependencies": {
     "BepInEx": "^5.4.5",
     "Deli": "~0.3.0"
   },
-  "InstallationSteps": [
-    "move deli\\mods\\Wristimate.deli"
-  ],
+  "InstallationSteps": ["move deli\\mods\\Wristimate.deli"],
   "IsBeta": false
 }

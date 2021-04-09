@@ -6,15 +6,11 @@
   "IconUrl": "https://i.imgur.com/jJyGlqz.png",
   "PreviewImageUrl": "https://i.imgur.com/jJyGlqz.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/385/",
-  "Authors": [
-    "Gunlovers"
-  ],
+  "Authors": ["Gunlovers"],
   "DownloadUrl": "https://bonetome.com/download.php?file=ZDM2NmUzMmZmNDU2MWViYSsrMTQ1NA==",
   "Dependencies": {
     "LSIIC": "^1.3.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/VirtualObjects"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "IsBeta": false
 }
