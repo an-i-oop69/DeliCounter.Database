@@ -12,8 +12,6 @@
   "Dependencies": {
     "Deli": "^0.3.0"
   },
-  "InstallationSteps": [
-    "move $GAME_DIR\\Deli\\mods"
-  ],
+  "InstallationSteps": ["move Deli\\mods\\OtherLoader.deli"],
   "IsBeta": false
 }
