@@ -5,15 +5,11 @@
   "ShortDescription": "TNH hotel map",
   "IconUrl": "https://i.imgur.com/UgS1J9m.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/412/",
-  "Authors": [
-    "SirPotatos"
-  ],
+  "Authors": ["SirPotatos"],
   "DownloadUrl": "https://bonetome.com/download.php?file=YWY2NTIwYWNhZjljOTg3ZSsrMTUxNg==",
   "Dependencies": {
     "WurstMod": "^2.0.3"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
   "IsBeta": false
 }

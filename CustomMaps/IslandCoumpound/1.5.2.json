@@ -5,15 +5,11 @@
   "ShortDescription": "Island Coumpound map for H3VR",
   "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
   "SourceUrl": "https://bonetome.com/h3vr/map/305/",
-  "Authors": [
-    "devyndamonster"
-  ],
+  "Authors": ["devyndamonster"],
   "DownloadUrl": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
   "Dependencies": {
     "WurstMod": "2.0.2"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\CustomLevels\\TakeAndHold"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\CustomLevels\\TakeAndHold"],
   "IsBeta": false
 }

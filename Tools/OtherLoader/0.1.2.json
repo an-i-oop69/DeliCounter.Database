@@ -5,9 +5,7 @@
   "ShortDescription": "A whole new loader",
   "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
   "SourceUrl": "https://github.com/devyndamonster/OtherLoader",
-  "Authors": [
-    "Devyndamonster"
-  ],
+  "Authors": ["Devyndamonster"],
   "DownloadUrl": "https://github.com/devyndamonster/OtherLoader/releases/download/v0.1.2/OtherLoader.deli",
   "Dependencies": {
     "Deli": "^0.3.0"

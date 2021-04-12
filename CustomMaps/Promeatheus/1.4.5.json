@@ -5,15 +5,11 @@
   "ShortDescription": "Sci-fi themed map for Take and Hold",
   "IconUrl": "https://i.imgur.com/TKu71elm.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/map/198/",
-  "Authors": [
-    "NunSuperior"
-  ],
+  "Authors": ["NunSuperior"],
   "DownloadUrl": "https://bonetome.com/download.php?file=YmQ1ZWFmZjgzZWU3NzVmMisrOTk4",
   "Dependencies": {
     "WurstMod": "^2.0.3"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
   "IsBeta": false
 }
