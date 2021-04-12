@@ -13,7 +13,7 @@
     "Deli": "^0.3.0"
   },
   "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods"
+    "move $GAME_DIR\\Deli\\mods"
   ],
   "IsBeta": false
 }
