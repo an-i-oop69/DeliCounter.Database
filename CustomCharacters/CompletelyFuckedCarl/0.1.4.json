@@ -1,14 +1,19 @@
-﻿{
+{
+  "VersionNumber": "0.1.4",
   "Name": "Completely Fucked Carl",
-  "VersionNumber": "0.1.3",
   "Description": "GTA SA style gang wars, static encryption only\n- Ballas, Vagos, Triads and Police, each round introduces a new gang and they're all hostile towards each other\n- GTA SA pistols mostly drop from Ballas and Vagos, most of the other SA weapons will randomly drop from the Triads and Police\n- Lots of meat to shoot\nPROBABLY works best with spawnlock enabled, but there is a free riot shield at the beginning if you're a fan of always being out of ammo",
   "ShortDescription": "GTA SA style gang wars, static encryption only",
-  "Authors": ["ilgmesh"],
   "IconUrl": "https://i.imgur.com/pxtTJJ2.png",
   "SourceUrl": "https://bonetome.com/h3vr/characters/199/",
-  "DownloadUrl": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYysyNjIxKzEwMDU=",
-  "InstallationSteps": ["move Mods/completelyfuckedcarl.zip"],
+  "Authors": [
+    "ilgmesh"
+  ],
+  "DownloadUrl": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYysrMTAwNQ==",
   "Dependencies": {
     "TNHTweaker": "~1.5.0"
-  }
+  },
+  "InstallationSteps": [
+    "move Mods/completelyfuckedcarl.zip"
+  ],
+  "IsBeta": false
 }
