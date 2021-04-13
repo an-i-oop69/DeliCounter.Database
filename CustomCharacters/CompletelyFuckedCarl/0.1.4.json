@@ -10,10 +10,10 @@
   ],
   "DownloadUrl": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYysrMTAwNQ==",
   "Dependencies": {
-    "TNHTweaker": "~1.5.0"
+    "TNHTweaker": "^1.6.0"
   },
   "InstallationSteps": [
-    "move Mods/completelyfuckedcarl.zip"
+    "extract $GAME_DIR\\Deli\\Mods"
   ],
   "IsBeta": false
 }
