@@ -8,8 +8,8 @@
   "Authors": ["devyndamonster"],
   "DownloadUrl": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
   "Dependencies": {
-    "WurstMod": "2.0.2"
+    "WurstMod": "^2.0.3"
   },
-  "InstallationSteps": ["extract $GAME_DIR\\CustomLevels\\TakeAndHold"],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
   "IsBeta": false
 }
