@@ -1,5 +1,5 @@
 {
-  "LatestApplicationVersion": "0.2.3",
-  "UpdateText": "- Multi-mod selection and management.\nIf you downloaded 0.2.2, sorry for the frequent updates lmao",
-  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v0.2.2"
+  "LatestApplicationVersion": "0.2.5",
+  "UpdateText": "- Improved error handling",
+  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v0.2.5"
 }
