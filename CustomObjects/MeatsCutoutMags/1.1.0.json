@@ -10,7 +10,7 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=YTk5MTg0NTBjNzRlZmMwZSsrMTQxMA==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
-    "H3VRUtils": "^6.0.5",
+    "H3VRUtils": "*",
     "LSIIC": "^1.3.0"
   }
 }

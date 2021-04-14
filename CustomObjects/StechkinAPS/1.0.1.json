@@ -11,6 +11,6 @@
   "InstallationSteps": ["extract $GAME_DIR/Mods"],
   "Dependencies": {
     "Sideloader": "^0.3.3",
-    "H3VRUtils": "^6.0.5"
+    "H3VRUtils": "*"
   }
 }
