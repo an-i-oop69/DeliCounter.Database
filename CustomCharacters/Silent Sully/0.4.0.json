@@ -1,0 +1,19 @@
+{
+  "VersionNumber": "0.4.0",
+  "Name": "Silent Sully",
+  "Description": "This is the real tactical experience. You're in center of hostile territory. Good luck, you'll need it. Osa out.",
+  "ShortDescription": "Challenging character that punishes carelessness",
+  "IconUrl": "https://avatars.githubusercontent.com/u/2129313?s=460&u=83679f4399fa6b40f2f26cea6fcb27454fa7f4b3&v=4",
+  "SourceUrl": "https://github.com/Osa-TnHCharacters/Silent-Sully",
+  "Authors": [
+    "OsaPL"
+  ],
+  "DownloadUrl": "https://github.com/Osa-TnHCharacters/Silent-Sully/releases/download/0.4.0/UnZipMePls-SilentSully0.4.0.zip",
+  "Dependencies": {
+    "TNHTweaker": "~1.6.0"
+  },
+  "InstallationSteps": [
+    "extract $GAME_DIR\\Deli\\mods\\"
+  ],
+  "IsBeta": false
+}
