@@ -1,15 +1,20 @@
 {
+  "VersionNumber": "1.1.0",
   "Name": "Sig Sauer P226 Series",
-  "VersionNumber": "1.0.0",
   "Description": "Introduces a line of SIG SAUER handguns for you to play with - with optic-ready slides.\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nCONTENTS\r\n\r\n- SIG P226 (.40S&W and 9x19mm)\r\n- SIG P226T (.40S&W and 9x19mm)\r\n- SIG MK25 (.40S&W and 9x19mm)\r\n- SIG MK25T (.40S&W and 9x19mm)\r\n- Extended Magazines for .40S&W and 9x19mm SIG P226 series handguns\r\n\r\nKNOWN ISSUES\r\n\r\n9x19mm extended magazine only holds 15 rounds - uncertain what could be causing it, looking to fix ASAP.\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nCREDITS\r\n\r\n- Nikpo (Texture editing for the MK25 series)\r\n- Infinity Ward (Sounds from Modern Warfare 2019)\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nDONATE\r\n\r\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\r\nhttps://ko-fi.com/jayyden\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWanting more lights and lasers for your guns? Check out the Modern Warfighter Lights And Lasers mod, linked below:\r\nhttps://bonetome.com/h3vr/weapons/308/\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWant a larger assortment of optics to play with? Check out the Modern Warfighter Optics mod here:\r\nhttps://bonetome.com/h3vr/weapons/336/\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWanting more rails to mount things onto? Check out the Modern Warfighter Rails mod, linked below:\r\nhttps://bonetome.com/h3vr/weapons/374/\n",
   "ShortDescription": "P226 Weapon Pack",
-  "Authors": ["Jayyden"],
   "IconUrl": "https://i.imgur.com/acJIROb.png",
   "PreviewImageUrl": "https://i.imgur.com/acJIROb.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/377/",
-  "DownloadUrl": "https://bonetome.com/download.php?file=MzJjZmU0MDViNTBkNWI2MysyNjIxKzE0NDM=",
-  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Authors": [
+    "Jayyden"
+  ],
+  "DownloadUrl": "https://bonetome.com/download.php?file=MzJjZmU0MDViNTBkNWI2MysrMTQ0Mw==",
   "Dependencies": {
     "LSIIC": "^1.3.0"
-  }
+  },
+  "InstallationSteps": [
+    "extract $GAME_DIR/VirtualObjects"
+  ],
+  "IsBeta": false
 }
