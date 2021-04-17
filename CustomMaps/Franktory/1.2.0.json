@@ -1,14 +1,19 @@
 {
+  "VersionNumber": "1.2.0",
   "Name": "Franktory",
-  "VersionNumber": "1.1.0",
   "Description": "Industrial estate #38, rented out illegally to the Serrano Ham Group Laboratories, or SerraGroup company. During the BBQ Wars, this frankfurter factory was a hotbed for numerous firefights between Shotdog and Mercweiner operatives.",
   "ShortDescription": "TNH factory map inspired by Tarkov",
-  "Authors": ["Stark"],
   "IconUrl": "https://i.imgur.com/WacauYW.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/403/",
-  "DownloadUrl": "https://bonetome.com/download.php?file=M2E4ZWRkZjVlYTRkODc0NSs3NzYrMTQ5MA==",
-  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
+  "Authors": [
+    "Stark"
+  ],
+  "DownloadUrl": "https://bonetome.com/download.php?file=M2E4ZWRkZjVlYTRkODc0NSsrMTQ5MA==",
   "Dependencies": {
     "WurstMod": "2.0.2"
-  }
+  },
+  "InstallationSteps": [
+    "extract $GAME_DIR\\Mods"
+  ],
+  "IsBeta": false
 }
