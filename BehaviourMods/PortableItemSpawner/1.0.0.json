@@ -1,7 +1,7 @@
 {
   "Name": "Portable Item Spawner",
   "VersionNumber": "1.0.0",
-  "Description": "Adds a portable ItemSpawner panel that is spawned in alongside the OptionsPanel using the WristMenu Can only spawn in scenes where an ItemSpawner is active, but can be spawned at the TNH postmatch scoreboard in order to vault the match's gun.",
+  "Description": "Adds a portable ItemSpawner panel that is spawned in alongside the OptionsPanel using the WristMenu. Can only spawn in scenes where an ItemSpawner is active, but can be spawned at the TNH postmatch scoreboard in order to vault the match's gun.",
   "ShortDescription": "A portable ItemSpawner panel",
   "Authors": [
     "M'aiq"
