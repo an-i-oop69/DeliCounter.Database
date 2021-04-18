@@ -1,5 +1,5 @@
 {
-  "VersionNumber": "0.1.4",
+  "VersionNumber": "0.1.5",
   "Name": "Other Loader",
   "Description": "Other loader provides an alternative Deli compatible virtual objcets loader, custom ammunition and item spawner categories!",
   "ShortDescription": "A whole new loader",
@@ -8,7 +8,7 @@
   "Authors": [
     "Devyndamonster"
   ],
-  "DownloadUrl": "https://github.com/devyndamonster/OtherLoader/releases/download/v0.1.4/OtherLoader.deli",
+  "DownloadUrl": "https://github.com/devyndamonster/OtherLoader/releases/download/v0.1.5/OtherLoader.deli",
   "Dependencies": {
     "Deli": "^0.3.0"
   },
