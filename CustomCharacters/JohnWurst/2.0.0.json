@@ -10,10 +10,10 @@
   ],
   "DownloadUrl": "https://bonetome.com/download.php?file=OTI3NDIwMzcyMjJmNmRhNSsrOTgw",
   "Dependencies": {
-    "TNHTweaker": "~1.5.0"
+    "TNHTweaker": "~1.6.0"
   },
   "InstallationSteps": [
-    "move mods/JohnWurst.deli"
+    "extract $GAME_DIR\\Deli\\mods\\"
   ],
   "IsBeta": false
 }
