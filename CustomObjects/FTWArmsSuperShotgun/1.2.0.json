@@ -6,15 +6,11 @@
   "IconUrl": "https://i.imgur.com/vyNSt6b.jpg",
   "PreviewImageUrl": "https://i.imgur.com/vyNSt6b.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/282/",
-  "Authors": [
-    "Andrew_FTW"
-  ],
+  "Authors": ["Andrew_FTW"],
   "DownloadUrl": "https://bonetome.com/download.php?file=MTBmNGQ1ZmZkYmVjODI0NCsrMTI2Mw==",
   "Dependencies": {
     "LSIIC": "^1.3.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/VirtualObjects"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "IsBeta": false
 }

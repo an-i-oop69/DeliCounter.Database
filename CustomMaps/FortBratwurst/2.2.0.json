@@ -5,15 +5,11 @@
   "ShortDescription": "Sandbox range",
   "IconUrl": "https://i.imgur.com/kfURTF5.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/201/",
-  "Authors": [ 
-    "Andrew_FTW"
-  ],
+  "Authors": ["Andrew_FTW"],
   "DownloadUrl": "https://bonetome.com/download.php?file=MzgwZGJiMmUwNDc3OGI5ZisrMTAxNQ==",
   "Dependencies": {
     "WurstMod": "^2.0.3"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
   "IsBeta": false
 }

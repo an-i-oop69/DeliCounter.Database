@@ -5,15 +5,11 @@
   "ShortDescription": "Sci-Fi themed Take and Hold Character",
   "IconUrl": "https://i.imgur.com/O85TNuM.png",
   "SourceUrl": "https://bonetome.com/h3vr/characters/197/",
-  "Authors": [
-    "SirPotatos"
-  ],
+  "Authors": ["SirPotatos"],
   "DownloadUrl": "https://bonetome.com/download.php?file=ZjNmZDcwNTRhZDVjYjI5YSsrOTk3",
   "Dependencies": {
     "TNHTweaker": "~1.6.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods\\"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
   "IsBeta": false
 }

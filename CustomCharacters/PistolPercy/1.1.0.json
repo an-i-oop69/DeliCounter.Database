@@ -5,15 +5,11 @@
   "ShortDescription": "Its Pistols and Machine Pistols only!",
   "IconUrl": "https://i.imgur.com/qjsRs3w.png",
   "SourceUrl": "https://bonetome.com/h3vr/characters/243/",
-  "Authors": [
-    "Stark"
-  ],
+  "Authors": ["Stark"],
   "DownloadUrl": "https://bonetome.com/download.php?file=YmZlZDkzYWM4ZDZhMDE0MSsrMTExMA==",
   "Dependencies": {
     "TNHTweaker": "~1.6.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/Deli/mods/"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/Deli/mods/"],
   "IsBeta": false
 }

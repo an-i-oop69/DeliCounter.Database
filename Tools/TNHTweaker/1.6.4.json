@@ -5,16 +5,12 @@
   "ShortDescription": "Custom TNH characters and Sosigs",
   "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
   "SourceUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker",
-  "Authors": [
-    "Devyndamonster"
-  ],
+  "Authors": ["Devyndamonster"],
   "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.6.4/TakeAndHoldTweaker.Unzip.Me.zip",
   "Dependencies": {
     "BepInEx": "^5.4.5",
     "Deli": "^0.3.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR"],
   "IsBeta": false
 }

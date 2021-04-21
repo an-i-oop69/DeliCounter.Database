@@ -5,15 +5,11 @@
   "ShortDescription": "Supermarket themed TNH map",
   "IconUrl": "https://i.imgur.com/vNHhUdQ.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/276/",
-  "Authors": [
-    "optomarcel"
-  ],
+  "Authors": ["optomarcel"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NDFiZDYxY2U3NGI5ZjRiMisrMTIzOQ==",
   "Dependencies": {
     "WurstMod": "^2.0.3"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
   "IsBeta": false
 }

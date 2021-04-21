@@ -6,15 +6,11 @@
   "IconUrl": "https://i.imgur.com/acJIROb.png",
   "PreviewImageUrl": "https://i.imgur.com/acJIROb.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/377/",
-  "Authors": [
-    "Jayyden"
-  ],
+  "Authors": ["Jayyden"],
   "DownloadUrl": "https://bonetome.com/download.php?file=MzJjZmU0MDViNTBkNWI2MysrMTQ0Mw==",
   "Dependencies": {
     "LSIIC": "^1.3.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/VirtualObjects"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "IsBeta": false
 }

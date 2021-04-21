@@ -6,15 +6,11 @@
   "IconUrl": "https://i.imgur.com/lUlB8GX.png",
   "PreviewImageUrl": "https://i.imgur.com/lUlB8GX.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/336/",
-  "Authors": [
-    "Jayyden"
-  ],
+  "Authors": ["Jayyden"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsrMTM3Mw==",
   "Dependencies": {
     "LSIIC": "^1.3.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/VirtualObjects"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "IsBeta": false
 }

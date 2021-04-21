@@ -5,15 +5,11 @@
   "ShortDescription": "A few QoL improvements for your hands",
   "IconUrl": "https://avatars.githubusercontent.com/u/18471731?s=460&u=5b0f941c9b2b4276f8289379168f4f7c542607fd&v=4",
   "SourceUrl": "https://github.com/Maiq-The-Dude/BetterHands",
-  "Authors": [
-    "M'aiq"
-  ],
+  "Authors": ["M'aiq"],
   "DownloadUrl": "https://github.com/Maiq-The-Dude/BetterHands/releases/download/1.1.1/BetterHands.deli",
   "Dependencies": {
     "Deli": "~0.3.0"
   },
-  "InstallationSteps": [
-    "move deli\\mods\\BetterHands.deli"
-  ],
+  "InstallationSteps": ["move deli\\mods\\BetterHands.deli"],
   "IsBeta": false
 }

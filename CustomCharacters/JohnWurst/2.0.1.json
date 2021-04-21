@@ -5,15 +5,11 @@
   "ShortDescription": "You ever wanted to be just like John Wick?",
   "IconUrl": "https://i.imgur.com/JGK5A2k.png",
   "SourceUrl": "https://bonetome.com/h3vr/characters/195/",
-  "Authors": [
-    "SirPotatos"
-  ],
+  "Authors": ["SirPotatos"],
   "DownloadUrl": "https://bonetome.com/download.php?file=OTI3NDIwMzcyMjJmNmRhNSsrOTgw",
   "Dependencies": {
     "TNHTweaker": "~1.6.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods\\"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
   "IsBeta": false
 }

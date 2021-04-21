@@ -5,15 +5,11 @@
   "ShortDescription": "TNH factory map inspired by Tarkov",
   "IconUrl": "https://i.imgur.com/WacauYW.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/403/",
-  "Authors": [
-    "Stark"
-  ],
+  "Authors": ["Stark"],
   "DownloadUrl": "https://bonetome.com/download.php?file=M2E4ZWRkZjVlYTRkODc0NSsrMTQ5MA==",
   "Dependencies": {
     "WurstMod": "^2.0.3"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
   "IsBeta": false
 }
