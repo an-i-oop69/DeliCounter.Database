@@ -1,5 +1,5 @@
 {
-  "LatestApplicationVersion": "0.2.5",
-  "UpdateText": "- Improved error handling",
-  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v0.2.5"
+  "LatestApplicationVersion": "1.0.0",
+  "UpdateText": "- New compact and iconless mode!\n- Some bug fixes",
+  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v1.0.0"
 }
