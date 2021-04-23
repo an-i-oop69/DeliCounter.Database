@@ -1,15 +1,20 @@
 {
+  "VersionNumber": "1.1.0",
   "Name": "Stabilizer",
-  "VersionNumber": "1.0.0",
   "Description": "A simple deli plugin that allows you to two-hand-stabilize while holding any object in your offhand. The vanilla game only allows two-hand-stabilizing while not holding anything, or holding a flashlight or magazine.\n\nSource available at https://github.com/itsmedoggo/H3VR_Stabilizer",
   "ShortDescription": "Stabilize weapons while holding anything",
-  "Authors": ["itsmedoggo"],
   "IconUrl": "https://i.imgur.com/Ik4lhGg.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/mods/286/",
-  "DownloadUrl": "https://bonetome.com/download.php?file=N2RmOTFjZTU4ZDU1MWZlZCsyNjIxKzEyNzE=",
-  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
+  "Authors": [
+    "itsmedoggo"
+  ],
+  "DownloadUrl": "https://bonetome.com/download.php?file=N2RmOTFjZTU4ZDU1MWZlZCsrMTI3MQ==",
   "Dependencies": {
     "BepInEx": "^5.4.5",
     "Deli": "~0.2.5"
-  }
+  },
+  "InstallationSteps": [
+    "extract $GAME_DIR\\Mods"
+  ],
+  "IsBeta": false
 }
