@@ -1,0 +1,14 @@
+{
+  "Name": "M40A1 Tweaks",
+  "VersionNumber": "1.0.0",
+  "Description": "Replaces the scope with a rail mount point. Can be configured under `h3vr/deli/configs/M40A1Tweaks.cfg`.",
+  "ShortDescription": "Replace M40A1 scope with rail mount",
+  "Authors": [ "M'aiq" ],
+  "IconUrl": "https://avatars.githubusercontent.com/u/18471731?s=460&u=5b0f941c9b2b4276f8289379168f4f7c542607fd&v=4",
+  "SourceUrl": "https://github.com/Maiq-The-Dude/M40A1Tweaks",
+  "DownloadUrl": "https://github.com/Maiq-The-Dude/M40A1Tweaks/releases/download/1.0.0/M40A1Tweaks.deli",
+  "InstallationSteps": [ "move Deli\\mods\\PortableItemSpawner.deli" ],
+  "Dependencies": {
+    "Deli": "~0.3.2"
+  }
+}

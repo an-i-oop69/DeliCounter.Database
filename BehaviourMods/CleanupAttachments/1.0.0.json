@@ -1,0 +1,14 @@
+{
+  "Name": "Cleanup Attachments",
+  "VersionNumber": "1.0.0",
+  "Description": "Deletes unattached attachments laying around when you click the 'Cleanup Guns & Melee' button in the wristmenu.",
+  "ShortDescription": "Cleanup a scene's unused attachments",
+  "Authors": [ "M'aiq" ],
+  "IconUrl": "https://avatars.githubusercontent.com/u/18471731?s=460&u=5b0f941c9b2b4276f8289379168f4f7c542607fd&v=4",
+  "SourceUrl": "https://github.com/Maiq-The-Dude/CleanupAttachments",
+  "DownloadUrl": "https://github.com/Maiq-The-Dude/CleanupAttachments/releases/download/1.0.0/CleanupAttachments.deli",
+  "InstallationSteps": [ "move Deli\\mods\\CleanupAttachments.deli" ],
+  "Dependencies": {
+    "Deli": "~0.3.2"
+  }
+}
