@@ -7,7 +7,7 @@
   "IconUrl": "https://i.imgur.com/Ybq3M9z.png",
   "SourceUrl": "Link to the GitHub / BoneTome page the mod is sourced from",
   "DownloadUrl": "https://github.com/Faeriedae/HotlineHeather/releases/download/v1.0.0/HotlineHeather.deli",
-  "InstallationSteps": ["move $GAME_DIR/Deli/Mods"],
+  "InstallationSteps": ["move Deli\\mods\\HotlineHeather.deli"],
   "Dependencies": {
     "TNHTweaker": "~1.6.0",
     "OtherLoader": "~0.1.5"
