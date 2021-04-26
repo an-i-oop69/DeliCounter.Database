@@ -9,8 +9,8 @@
   "Authors": ["Andrew_FTW"],
   "DownloadUrl": "https://bonetome.com/download.php?file=MTBmNGQ1ZmZkYmVjODI0NCsrMTI2Mw==",
   "Dependencies": {
-    "LSIIC": "^1.3.0"
+    "OtherLoader": "^0.1.5"
   },
-  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
   "IsBeta": false
 }
