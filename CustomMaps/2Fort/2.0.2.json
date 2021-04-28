@@ -1,15 +1,19 @@
 {
-  "VersionNumber": "2.0.1",
+  "VersionNumber": "2.0.2",
   "Name": "2Fort",
   "Description": "Recreation of Team Fortress' ctf_2fort map. Rebuilt with RealtimeCSG, will continue improving the map so some areas might end up different than the source material.",
   "ShortDescription": "TNH 2Fort map",
   "IconUrl": "https://files.catbox.moe/s2w8hj.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/4/",
-  "Authors": ["ViniloTraiteto"],
-  "DownloadUrl": "https://bonetome.com/download.php?file=YzJmZjgyNTAzNGU4ZjUxNSs3NzYrMzU4",
+  "Authors": [
+    "ViniloTraiteto"
+  ],
+  "DownloadUrl": "https://bonetome.com/download.php?file=YzJmZjgyNTAzNGU4ZjUxNSsrMzU4",
   "Dependencies": {
     "WurstMod": "^2.0.3"
   },
-  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "InstallationSteps": [
+    "extract $GAME_DIR\\Deli\\mods"
+  ],
   "IsBeta": false
 }
