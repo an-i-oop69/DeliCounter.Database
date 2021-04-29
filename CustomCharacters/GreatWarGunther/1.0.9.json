@@ -7,9 +7,10 @@
   "IconUrl": "https://i.imgur.com/7topfDK.png",
   "SourceUrl": "https://bonetome.com/h3vr/characters/163/",
   "DownloadUrl": "https://bonetome.com/download.php?file=OTE5NDUyYWJhMTRiMGRmYSszODErODYy",
-  "InstallationSteps": ["move mods/GreatWarGunther.deli"],
+  "InstallationSteps": ["extract $GAME_FOLDER\\Deli\\mods\\"],
   "Dependencies": {
-    "TNHTweaker": "~1.5.0",
-    "DoomboxsGermanUniforms": "^1.1.1"
+    "TNHTweaker": "~1.6.0",
+    "DoomboxsGermanUniforms": "^1.1.1",
+    "PCCG": "7.0.0"
   }
 }
