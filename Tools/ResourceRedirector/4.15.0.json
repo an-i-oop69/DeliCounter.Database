@@ -18,5 +18,5 @@
   "InstallationSteps": [
     "extract $GAME_DIR"
   ],
-  "IsBeta": false
+  "IsBeta": true
 }
