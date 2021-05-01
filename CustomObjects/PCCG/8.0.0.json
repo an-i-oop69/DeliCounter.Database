@@ -11,8 +11,8 @@
   ],
   "DownloadUrl": "https://bonetome.com/download.php?file=NGFmYTMxOWRjNmEwMTdhMSsrNzUw",
   "Dependencies": {
-    "Deli": "^3.0",
-    "H3VRUtils": "^7.1.0",
+    "Deli": "^0.3",
+    "H3VRUtils": "*",
     "OtherLoader": "^1.6.0"
   },
   "InstallationSteps": [
