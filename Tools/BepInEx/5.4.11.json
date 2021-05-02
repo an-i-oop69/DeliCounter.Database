@@ -1,5 +1,5 @@
 {
-  "VersionNumber": "5.4.10",
+  "VersionNumber": "5.4.11",
   "Name": "BepInEx",
   "Description": "BepInEx is a plugin / modding framework for Unity Mono, IL2CPP and .NET framework games (XNA, FNA, MonoGame, etc.)",
   "ShortDescription": "BepInEx is a plugin / modding framework",
@@ -10,7 +10,7 @@
     "bbepis",
     "ManlyMarco"
   ],
-  "DownloadUrl": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.10/BepInEx_x64_5.4.10.0.zip",
+  "DownloadUrl": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.11/BepInEx_x64_5.4.11.0.zip",
   "Dependencies": {},
   "InstallationSteps": [
     "extract $GAME_DIR"
