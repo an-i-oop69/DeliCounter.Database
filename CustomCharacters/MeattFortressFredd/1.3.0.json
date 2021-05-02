@@ -9,10 +9,10 @@
   ],
   "DownloadUrl": "https://bonetome.com/download.php?file=YWVlOWNhODNiNzc2ODg2YSsrMTAxMw==",
   "Dependencies": {
-    "TNHTweaker": "~1.5.0"
+    "TNHTweaker": "~1.6.0"
   },
   "InstallationSteps": [
-    "move mods/MeattFortressFredd.deli"
+    "extract $GAME_DIR\\Deli\\mods\\"
   ],
   "IsBeta": false
 }
