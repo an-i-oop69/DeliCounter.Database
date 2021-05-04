@@ -1,16 +1,21 @@
-﻿{
+{
+  "VersionNumber": "2.0.1",
   "Name": "Meat's ModulAR Overhaul",
-  "VersionNumber": "2.0.0",
   "Description": "It's finally here. The U.S. Meat Corps is more than proud to announce the official overhaul and re-release of ModulAR!\nA month overdue but with countless more attachments, more than a dozen new receivers, and an almost infinite number of possible combinations. I'm serious, we did the math, and not including magazines there are over 3 billion possible combinations waiting for you to assemble. Dive deep!",
   "ShortDescription": "ModulAR Overhaul",
-  "Authors": ["Meat_banono"],
   "IconUrl": "https://i.imgur.com/3Up4x4W.png",
   "PreviewImageUrl": "https://i.imgur.com/3Up4x4W.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/450/",
-  "DownloadUrl": "https://bonetome.com/download.php?file=N2ZkN2IxYjJkZmFiOTVkNiszODErMTYwNA==",
-  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods/"],
+  "Authors": [
+    "Meat_banono"
+  ],
+  "DownloadUrl": "https://bonetome.com/download.php?file=N2ZkN2IxYjJkZmFiOTVkNisrMTYwNA==",
   "Dependencies": {
     "OtherLoader": "^0.1.6",
     "H3VRUtils": "*"
-  }
+  },
+  "InstallationSteps": [
+    "extract $GAME_DIR/Deli/Mods/"
+  ],
+  "IsBeta": false
 }
