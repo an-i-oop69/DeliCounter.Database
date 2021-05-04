@@ -1,15 +1,19 @@
 {
-  "VersionNumber": "1.1.4",
+  "VersionNumber": "1.1.5",
   "Name": "Nukie Norren",
   "Description": "Space Station 13 Themed Take And Hold Character, Lots Of Security To Fight, Bosses That Drop Powerups, Static Weapon Pools, Very Hard On Wide Open Maps",
   "ShortDescription": "Space Station 13 Themed Take And Hold Character",
   "IconUrl": "https://i.imgur.com/kinLi2o.png",
   "SourceUrl": "https://bonetome.com/h3vr/characters/434/",
-  "Authors": ["TurnLeft25"],
-  "DownloadUrl": "https://bonetome.com/download.php?file=ZjU0NWYxMGZlMjdkNjQ3MyszMDgyKzE1Njc=",
+  "Authors": [
+    "TurnLeft25"
+  ],
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZjU0NWYxMGZlMjdkNjQ3MysrMTU2Nw==",
   "Dependencies": {
     "TNHTweaker": "~1.6.0"
   },
-  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "InstallationSteps": [
+    "extract $GAME_DIR/Deli/Mods"
+  ],
   "IsBeta": false
 }
