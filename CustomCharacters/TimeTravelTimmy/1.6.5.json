@@ -13,7 +13,7 @@
     "TNHTweaker": "~1.6.0"
   },
   "InstallationSteps": [
-    "move mods/TimeTravelTimmy.deli"
+    "extract $GAME_DIR"
   ],
   "IsBeta": false
 }
