@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.0.1",
+  "Name": "HOTDOG MIAMI: BRUTAL ENEMY",
+  "Description": "\"A rash of devestating attacks have spread throughout the city of Miami as tensions between the Veggie and Shotties continues to rise. In other news, citizens of Miami continue to report strange prank calls asking for mundane tasks...\"\n\nUse an arsenal of iconic action movie arms to carve through a legion of varied and dangerous enemies. All of the holds are timed and don't have any targets. Designed for limited ammo.",
+  "ShortDescription": "Timed hold limited ammo character",
+  "IconUrl": "https://i.imgur.com/4JTALtK.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/442/",
+  "Authors": ["Hagus"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=NTE2ZTE4ODRkY2Y3ZDQ2NCszODErMTU5Mw==",
+  "Dependencies": {
+    "TNHTweaker": "~1.6.0"
+  },
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "IsBeta": false
+}
