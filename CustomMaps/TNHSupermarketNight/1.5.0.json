@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.5.0",
+  "Name": "TNH Supermarket Night",
+  "Description": "MThe night version of my supermarket. Comes in 2 versions, funky and normal. Funky contains some royalty free music by Kevin MacLeod https://www.youtube.com/user/kmmusic",
+  "ShortDescription": "Supermarket themed TNH map at night",
+  "IconUrl": "https://i.imgur.com/UOqiIXy.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/275/",
+  "Authors": ["optomarcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=N2MzNmVhMjFhMzA0NzI4NSszODErMTIzOA==",
+  "Dependencies": {
+    "WurstMod": "^2.0.3"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
