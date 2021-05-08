@@ -5,15 +5,11 @@
   "ShortDescription": "Progress through each age of weaponry, from wild west to modern",
   "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
   "SourceUrl": "https://bonetome.com/h3vr/characters/451/",
-  "Authors": [
-    "devyndamonster"
-  ],
+  "Authors": ["devyndamonster"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NmE4YWVhZjMwNzIyYTZjOSszODErMTYwNw==",
   "Dependencies": {
     "TNHTweaker": "~1.6.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
   "IsBeta": false
 }

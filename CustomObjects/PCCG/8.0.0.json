@@ -6,17 +6,13 @@
   "IconUrl": "https://i.imgur.com/hzGU6x2.png",
   "PreviewImageUrl": "https://i.imgur.com/hzGU6x2.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/142/",
-  "Authors": [
-    "Potatoes"
-  ],
+  "Authors": ["Potatoes"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NGFmYTMxOWRjNmEwMTdhMSsrNzUw",
   "Dependencies": {
     "Deli": "^0.3",
     "H3VRUtils": "*",
     "OtherLoader": "^0.1.6"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/Deli/Mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
   "IsBeta": false
 }

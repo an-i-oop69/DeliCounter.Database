@@ -5,16 +5,12 @@
   "ShortDescription": "Stabilize weapons while holding anything",
   "IconUrl": "https://i.imgur.com/Ik4lhGg.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/mods/286/",
-  "Authors": [
-    "itsmedoggo"
-  ],
+  "Authors": ["itsmedoggo"],
   "DownloadUrl": "https://bonetome.com/download.php?file=N2RmOTFjZTU4ZDU1MWZlZCsrMTI3MQ==",
   "Dependencies": {
     "BepInEx": "^5.4.5",
     "Deli": "^0.3.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
   "IsBeta": false
 }

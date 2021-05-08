@@ -5,17 +5,12 @@
   "ShortDescription": "Allows MP7 foregrip to fold & adds a flush mag",
   "IconUrl": "https://avatars.githubusercontent.com/u/18471731?s=460&u=5b0f941c9b2b4276f8289379168f4f7c542607fd&v=4",
   "SourceUrl": "https://github.com/Maiq-The-Dude/FoldableMP7A1",
-  "Authors": [
-    "M'aiq",
-    "Andrew_FTW"
-  ],
+  "Authors": ["M'aiq", "Andrew_FTW"],
   "DownloadUrl": "https://github.com/Maiq-The-Dude/FoldableMP7A1/releases/download/1.1.0/FoldableMP7A1.deli",
   "Dependencies": {
     "Deli": "~0.3.2",
     "OtherLoader": "^0.1.2"
   },
-  "InstallationSteps": [
-    "move Deli\\mods\\FoldableMP7A1.deli"
-  ],
+  "InstallationSteps": ["move Deli\\mods\\FoldableMP7A1.deli"],
   "IsBeta": false
 }

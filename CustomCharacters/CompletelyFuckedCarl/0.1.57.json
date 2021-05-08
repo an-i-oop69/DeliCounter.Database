@@ -5,15 +5,11 @@
   "ShortDescription": "GTA SA style gang wars, static encryption only",
   "IconUrl": "https://i.imgur.com/pxtTJJ2.png",
   "SourceUrl": "https://bonetome.com/h3vr/characters/199/",
-  "Authors": [
-    "ilgmesh"
-  ],
+  "Authors": ["ilgmesh"],
   "DownloadUrl": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYysrMTAwNQ==",
   "Dependencies": {
     "TNHTweaker": "^1.6.0"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\Mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\Mods"],
   "IsBeta": false
 }

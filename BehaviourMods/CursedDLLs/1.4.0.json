@@ -5,16 +5,11 @@
   "ShortDescription": "Collection of cursed game patches",
   "IconUrl": "https://avatars.githubusercontent.com/u/67712963?s=460&v=4",
   "SourceUrl": "https://github.com/drummerdude2003/CursedDlls.BepinEx",
-  "Authors": [
-    "BlockBuilder57",
-    "Drummerdude2003"
-  ],
+  "Authors": ["BlockBuilder57", "Drummerdude2003"],
   "DownloadUrl": "https://github.com/drummerdude2003/CursedDlls.BepinEx/releases/download/v1.4/CursedDlls.BepInEx_v1.4.zip",
   "Dependencies": {
     "BepInEx": "^5.4.5"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR"],
   "IsBeta": false
 }

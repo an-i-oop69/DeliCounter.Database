@@ -3,11 +3,11 @@
   "VersionNumber": "1.0.0",
   "Description": "Gives the MP7A1 foregrip the ability to fold. Click right in front of the triggerguard to activate.",
   "ShortDescription": "Allows MP7 foregrip to fold",
-  "Authors": [ "M'aiq" ],
+  "Authors": ["M'aiq"],
   "IconUrl": "https://avatars.githubusercontent.com/u/18471731?s=460&u=5b0f941c9b2b4276f8289379168f4f7c542607fd&v=4",
   "SourceUrl": "https://github.com/Maiq-The-Dude/FoldableMP7A1",
   "DownloadUrl": "https://github.com/Maiq-The-Dude/FoldableMP7A1/releases/download/1.0.0/FoldableMP7A1.deli",
-  "InstallationSteps": [ "move Deli\\mods\\FoldableMP7A1.deli" ],
+  "InstallationSteps": ["move Deli\\mods\\FoldableMP7A1.deli"],
   "Dependencies": {
     "Deli": "~0.3.2"
   }

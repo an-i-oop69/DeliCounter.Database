@@ -6,16 +6,12 @@
   "IconUrl": "https://i.imgur.com/3Up4x4W.png",
   "PreviewImageUrl": "https://i.imgur.com/3Up4x4W.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/450/",
-  "Authors": [
-    "Meat_banono"
-  ],
+  "Authors": ["Meat_banono"],
   "DownloadUrl": "https://bonetome.com/download.php?file=N2ZkN2IxYjJkZmFiOTVkNisrMTYwNA==",
   "Dependencies": {
     "OtherLoader": "^0.1.6",
     "H3VRUtils": "*"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR/Deli/Mods/"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods/"],
   "IsBeta": false
 }

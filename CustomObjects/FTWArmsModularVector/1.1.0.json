@@ -6,15 +6,11 @@
   "IconUrl": "https://i.imgur.com/zKoEGV0.jpg",
   "PreviewImageUrl": "https://i.imgur.com/zKoEGV0.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/456/",
-  "Authors": [
-    "Andrew_FTW"
-  ],
+  "Authors": ["Andrew_FTW"],
   "DownloadUrl": "https://bonetome.com/download.php?file=N2EzYmUzYzk2MDVhNmQ3OSsrMTYyMQ==",
   "Dependencies": {
     "OtherLoader": "^0.1.7"
   },
-  "InstallationSteps": [
-    "extract $GAME_DIR\\Deli\\mods\\"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
   "IsBeta": false
 }
