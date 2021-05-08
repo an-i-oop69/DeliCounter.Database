@@ -1,7 +1,7 @@
 {
   "VersionNumber": "1.1.0",
   "Name": "Portable Item Spawner",
-  "Description": "Adds a portable ItemSpawner panel that is spawned in alongside the OptionsPanel using the WristMenu. Can only spawn in scenes where an ItemSpawner is active, but can be spawned at the TNH postmatch scoreboard in order to vault the match's gun.",
+  "Description": "Adds a portable ItemSpawner panel that is spawned via the WristMenu. Can only spawn in scenes where an ItemSpawner is active, but can be spawned at the TNH postmatch scoreboard in order to vault the match's gun.",
   "ShortDescription": "A portable ItemSpawner panel",
   "IconUrl": "https://avatars.githubusercontent.com/u/18471731?s=460&u=5b0f941c9b2b4276f8289379168f4f7c542607fd&v=4",
   "SourceUrl": "https://github.com/Maiq-The-Dude/PortableItemSpawner",
@@ -10,7 +10,8 @@
   ],
   "DownloadUrl": "https://github.com/Maiq-The-Dude/PortableItemSpawner/releases/download/1.1.0/PortableItemSpawner.deli",
   "Dependencies": {
-    "Deli": "~0.3.2"
+    "Deli": "~0.3.2",
+    "Deli.H3VR":  "~0.1.0"
   },
   "InstallationSteps": [
     "move Deli\\mods\\PortableItemSpawner.deli"
