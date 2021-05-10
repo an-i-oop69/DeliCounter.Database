@@ -1,0 +1,16 @@
+{
+  "Name": "ModulFAL,
+  "VersionNumber": "1.0.1",
+  "Description": "Belgium Made, BABY!\nFeatures\n- COMPATIBLITY WITH MEAT'S MODULAK PISTOL-GRIPS!\n- COMPATIBLITY WITH MEAT'S MODULAR STOCKS!\n- Two Receivers (FAL and SA47, the Cursed one)\n- Different Barrel lengths!\n- Folding Stocks!\n- Unique parts and a customizable rear-sight!\n- New FAL magazines!\n- Juicy Noises!\n- Two length handguards, some custom-made\n- Ability to single-load your rounds into the gun!\n- Original Wood bits!\n- Polymer cold-war bits!\n- Modern bits!\n- Working and moving bolt catch!\n- Classic rear sight and muzzles!\n- Full PARA Kit!\n\nYou can find all the parts in as follows;\nReceivers and Magazines - Battle Rifle\nDust Covers - Rail Adapters\nPistol Grips - Foregrips\nHandguards - Foregrips \nStocks - Stocks\nSights - Iron Sights\nBarrels - Supressors/Muzzle Devices",
+  "ShortDescription": "Modular FAL (Vanilla edition)",
+  "Authors": ["Wolfie],
+  "IconUrl": "https://i.imgur.com/GRxKjcP.png",
+  "PreviewImageUrl": "https://i.imgur.com/GRxKjcP.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/457/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MjlkMjE2NGM0MDAwNDA4YSszODErMTYyMg==",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/mods/"],
+  "Dependencies": {
+    "OtherLoader": "^0.1.7",
+    "H3VRUtils": "*"
+  }
+}
