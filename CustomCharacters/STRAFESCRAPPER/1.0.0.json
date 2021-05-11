@@ -1,0 +1,15 @@
+{
+  "Name": "STRAFESCRAPPER",
+  "VersionNumber": "1.0.0",
+  "Description": "Hey there, Welcome to the character STRAFEScrapper, a homage to the roguelite Strafe. It's got all custom weaponry and even some bonus guest items. This character is about fast and aggressive play, hordes are aplenty and playing cowardly is a ticket to death.",
+  "ShortDescription": "Custom character and weapons based on Strafe",
+  "Authors": ["Gunlovers"],
+  "IconUrl": "https://i.imgur.com/51Sgh2K.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/461/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=N2E4MmQ5ZmY1OWQ5OTcwMSszODErMTYyNw==",
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
+  "Dependencies": {
+    "OtherLoader": "~0.1.2",
+    "TNHTweaker": "~1.6.0"
+  }
+}
