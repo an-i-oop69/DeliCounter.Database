@@ -9,6 +9,7 @@
   "SourceUrl": "https://bonetome.com/h3vr/weapons/159/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MjgxMDkxOThkYTE0Mjg4MCszODErODUw",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "IncompatibleTags": ["MeatsModulAROverhaul"],
   "Dependencies": {
     "LSIIC": "^1.3.0"
   }
