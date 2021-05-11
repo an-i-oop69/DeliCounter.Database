@@ -13,5 +13,6 @@
     "H3VRUtils": "*"
   },
   "InstallationSteps": ["extract $GAME_DIR/Deli/Mods/"],
+  "IncompatibleTags": ["ModulAR"],
   "IsBeta": false
 }
