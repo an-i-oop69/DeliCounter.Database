@@ -1,16 +1,20 @@
 {
-  "VersionNumber": "1.1.0",
+  "VersionNumber": "1.2.0",
   "Name": "FTW Arms Modular Vector",
   "Description": "As my first real \"Modular\" series mod, I present, the Modular Vector. Including a Vector 9, aswell as a Vector 45, along with a real vector stock, and a few other parts, allowing you to make the Vector of your dreams.",
   "ShortDescription": "Modular Vector",
   "IconUrl": "https://i.imgur.com/zKoEGV0.jpg",
   "PreviewImageUrl": "https://i.imgur.com/zKoEGV0.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/456/",
-  "Authors": ["Andrew_FTW"],
+  "Authors": [
+    "Andrew_FTW"
+  ],
   "DownloadUrl": "https://bonetome.com/download.php?file=N2EzYmUzYzk2MDVhNmQ3OSsrMTYyMQ==",
   "Dependencies": {
     "OtherLoader": "^0.1.7"
   },
-  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
+  "InstallationSteps": [
+    "extract $GAME_DIR\\Deli\\mods\\"
+  ],
   "IsBeta": false
 }
