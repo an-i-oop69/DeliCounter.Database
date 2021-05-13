@@ -1,0 +1,14 @@
+{
+  "Name": "Dust 2 City",
+  "VersionNumber": "1.0.0",
+  "Description": "A reimagining of de_dust2 using Synty Studios' Polygon City assets. Special thanks to Marcel for creating most of the colliders for the map. v1 still has some lighting issues (i.e. stairs, and other areas of the map), but it is the first version I'm comfortable with releasing as it was fairly fun for the time I played it. Please let me know of any glitches you encounter and any suggestions for improvements.",
+  "ShortDescription": "A reimagining of de_dust2 using Synty Studios' Polygon City assets.",
+  "Authors": ["EdisLeado", "Optomarcel"],
+  "IconUrl": "https://i.imgur.com/GUOQAAK.png",
+  "SourceUrl": "Link to the GitHub / BoneTome page the mod is sourced from",
+  "DownloadUrl": "https://drive.google.com/file/d/16w87Sql5MQ4c-iXX7BM4HWG3-TBto1AR/view?usp=sharing",
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "Dependencies": {
+    "WurstMod": "^2.1.1"
+  }
+}
