@@ -5,8 +5,8 @@
   "ShortDescription": "A reimagining of de_dust2 using Synty Studios' Polygon City assets.",
   "Authors": ["EdisLeado", "Optomarcel"],
   "IconUrl": "https://i.imgur.com/GUOQAAK.png",
-  "SourceUrl": "Link to the GitHub / BoneTome page the mod is sourced from",
-  "DownloadUrl": "https://drive.google.com/file/d/16w87Sql5MQ4c-iXX7BM4HWG3-TBto1AR/view?usp=sharing",
+  "SourceUrl": "https://bonetome.com/h3vr/map/465/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZWYzMGI1MmMzMzEwZWQxOSszODErMTYzMg==",
   "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
   "Dependencies": {
     "WurstMod": "^2.1.1"
