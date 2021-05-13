@@ -11,7 +11,7 @@
   "DownloadUrl": "https://github.com/Maiq-The-Dude/PortableItemSpawner/releases/download/1.2.0/PortableItemSpawner.deli",
   "Dependencies": {
     "Deli": "~0.3.2",
-    "Deli.H3VR": "~0.1.0"
+    "Deli.H3VR": "~0.2.0"
   },
   "InstallationSteps": [
     "move Deli\\mods\\PortableItemSpawner.deli"
