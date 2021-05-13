@@ -1,16 +1,21 @@
 {
-  "VersionNumber": "7.1.0",
+  "VersionNumber": "7.1.1",
   "Name": "H3VR Utils",
   "Description": "Modding library for H3VR",
   "ShortDescription": "Modding library for H3VR",
   "IconUrl": "https://i.imgur.com/rcMDLuH.png",
   "SourceUrl": "https://bonetome.com/h3vr/mods/160/",
-  "Authors": ["Potatoes", "Frityet"],
+  "Authors": [
+    "Potatoes",
+    "Frityet"
+  ],
   "DownloadUrl": "https://bonetome.com/download.php?file=MTRmZjdkYWM4M2YzNDdmNCsrODUx",
   "Dependencies": {
     "BepInEx": "^5.4.5",
     "Sideloader": "~0.3.3"
   },
-  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
+  "InstallationSteps": [
+    "extract $GAME_DIR\\Mods"
+  ],
   "IsBeta": false
 }
