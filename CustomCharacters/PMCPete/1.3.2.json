@@ -10,7 +10,8 @@
   ],
   "DownloadUrl": "https://bonetome.com/download.php?file=ZWM1MThmZTdiMzNmMDZkYisrMTIxNg==",
   "Dependencies": {
-    "TNHTweaker": "~1.6.0"
+    "TNHTweaker": "~1.6.0",
+    "ModulAROverhaul": "*"
   },
   "InstallationSteps": [
     "extract $GAME_DIR/Deli/Mods"
