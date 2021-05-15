@@ -1,0 +1,15 @@
+{
+  "Name": "Payday2SosigVoices(Lite)",
+  "VersionNumber": "1.0.0",
+  "Description": "Replaces most of the default sosig voices with sounds from Payday 2 cops, guards and others",
+  "ShortDescription": "Payday 2 Sosig Voices.",
+  "Authors": ["Jaxtheripper"],
+  "IconUrl": "https://i.imgur.com/GjFEILg.png",
+  "SourceUrl": "Awaiting approval on bonetome",
+  "DownloadUrl": "Download URL for the mod",
+  "InstallationSteps": ["extract $GAME_DIR/mods"],
+  "Dependencies": {
+    "Deli": "^0.2.5"
+  }
+}
+
