@@ -1,0 +1,16 @@
+{
+  "Name": "Payday2TNHMusic",
+  "VersionNumber": "1.0.0",
+  "Description": "First Attempt at replacing the default TNH music with a cut up version of 'Evil Eye' from Payday 2",
+  "ShortDescription": "Payday 2 TNH Music.",
+  "Authors": ["Jaxtheripper"],
+  "IconUrl": "https://i.imgur.com/zQa0HPW.png",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/471/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MWJkYmIxNmMxY2JiYjIwMiszMzkzKzE2NDA=",
+  "InstallationSteps": ["extract $GAME_DIR/h3vr_Data/StreamingAssets"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  },
+  "Tags": ["TNHAnnouncer"],
+  "IncompatibleTags": ["TNHAnnouncer"]
+}
