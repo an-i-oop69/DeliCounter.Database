@@ -1,0 +1,16 @@
+{
+  "Name": "Payday2BainAnnouncer",
+  "VersionNumber": "1.0.0",
+  "Description": "Replaces the default TNH announcer with Bain quotes from Payday 2",
+  "ShortDescription": "Payday 2 Bain Announcer.",
+  "Authors": ["Jaxtheripper"],
+  "IconUrl": "https://i.imgur.com/x1pnE6Y.png",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/470/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NTQ4ZDA1OWRkNDYxNzU0ZSszMzkzKzE2Mzk=",
+  "InstallationSteps": ["extract $GAME_DIR/mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  },
+  "Tags": ["TNHAnnouncer"],
+  "IncompatibleTags": ["TNHAnnouncer"]
+}
