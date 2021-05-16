@@ -9,7 +9,9 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=YmQ4ZWU5NWRiNzk5OTk4MiszMzkzKzE2Mzg=",
   "InstallationSteps": ["extract $GAME_DIR/mods"],
   "Dependencies": {
-    "Deli": "^0.2.5"
-  }
+    "Sideloader": "^0.3.3"
+  },
+  "Tags": ["TNHAnnouncer"],
+  "IncompatibleTags": ["TNHAnnouncer"]
 }
 
