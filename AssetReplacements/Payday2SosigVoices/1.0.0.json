@@ -5,8 +5,8 @@
   "ShortDescription": "Payday 2 Sosig Voices.",
   "Authors": ["Jaxtheripper"],
   "IconUrl": "https://i.imgur.com/GjFEILg.png",
-  "SourceUrl": "Awaiting approval on bonetome",
-  "DownloadUrl": "Download URL for the mod",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/469/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YmQ4ZWU5NWRiNzk5OTk4MiszMzkzKzE2Mzg=",
   "InstallationSteps": ["extract $GAME_DIR/mods"],
   "Dependencies": {
     "Deli": "^0.2.5"
