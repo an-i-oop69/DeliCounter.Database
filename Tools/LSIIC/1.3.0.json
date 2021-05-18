@@ -10,6 +10,7 @@
   "InstallationSteps": ["extract $GAME_DIR"],
   "Dependencies": {
     "BepInEx": "^5.4.5",
-    "BepInEx.MonoMod": "^1.0.0"
+    "BepInEx.MonoMod": "^1.0.0",
+    "Sideloader": "^0.3.3"
   }
 }
