@@ -1,0 +1,18 @@
+{
+  "Name": "N-Toolbox",
+  "VersionNumber": "1.2.1",
+  "Description": "An H3VR mod that adds a miriad of wrist-menu buttons, sorted by functionality:\nItem Interactions\nGather ItemsResert bear trapsFreeze/Unfreeze gunsFreeze ammoFreeze attacchmentsSpawn Ammo PanelSpawn ammo weenie\nPlayer Interactions\nRestore HP to fullRestore HP by 10% (currently bugged, restores full)Toggle 1-hitToggle god mode (invincibility)Kill yourselfToggle invisibility (currently broken)\nTake and Hold Interactions\nNote: These buttons only work correctly inside of a TnH run, and may produce undesireable results in other scenes\nAdd tokenSpawn ammo reloaderSpawn magazine duplicatorSpawn recyclerKill patrols\nScene Interactions\nThis is a set of buttons that will spawn you in the desired scene.Want to go to the TnH lobby? Simply click the button. Works betweenscenes.",
+  "ShortDescription": "An H3VR mod that adds a miriad of wrist-menu buttons",
+  "Authors": [
+    "Gamernayr"
+  ],
+  "IconUrl": "https://avatars.githubusercontent.com/u/69859977?v=4",
+  "SourceUrl": "https://github.com/nayr31/N-Toolbox",
+  "DownloadUrl": "https://github.com/nayr31/N-Toolbox/releases/download/v1.2.1/NToolbox.deli",
+  "InstallationSteps": [
+    "move Deli/mods/NToolbox.deli"
+  ],
+  "Dependencies": {
+    "Deli.H3VR": "^0.2.0"
+  }
+}
