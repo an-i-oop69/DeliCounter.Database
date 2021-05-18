@@ -13,6 +13,6 @@
     "move Deli/mods/NToolbox.deli"
   ],
   "Dependencies": {
-    "Deli": "^0.3.1"
+    "Deli.H3VR": "^0.2.0"
   }
 }
