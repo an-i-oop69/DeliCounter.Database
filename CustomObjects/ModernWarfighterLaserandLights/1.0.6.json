@@ -1,0 +1,16 @@
+{
+  "VersionNumber": "1.0.6",
+  "Name": "Modern Warfighter Laser and Lights",
+  "Description": "A collection of modern weapon lights and lasers, with reworked effects for better-looking attachments.\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nCONTENTS\r\n\r\n- EoTech NGAL\r\n- EoTech AN/PEQ-15 with BUIS\r\n- Steiner DBAL-i2 with BUIS\r\n- Steiner DBAL-A3\r\n- ZenitCo Perst4\r\n- BE Meyers MAWL-C1+\r\n- Inforce APL\r\n- Inforce APLc\r\n- Inforce WML\r\n- Streamlight TLR1-HL\r\n- Streamlight TLR7\r\n- Surefire M300C (Standard mount & Offset)\r\n- Surefire M600V (Standard mount & Offset)\r\n- Surefire M952V (Standard mount & Offset)\r\n- Surefire X300U\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nCREDITS\r\n\r\n- Shampooh, Carkidd (assistance with implementation)\r\n- Melon (providing models)\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nDONATE\r\n\r\nWant to support me and help me afford more models to implement, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\r\nhttps://ko-fi.com/jayyden\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWanting more rails to mount things onto? Check out the Modern Warfighter Rails mod, linked below:\r\nhttps://bonetome.com/h3vr/weapons/374/\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\Want a larger assortment of optics to play with? Check out the Modern Warfighter Optics mod here:\r\nhttps://bonetome.com/h3vr/weapons/336/\n",
+  "ShortDescription": "Modern Lasers/Lights",
+  "IconUrl": "https://i.imgur.com/3TLpj1x.png",
+  "PreviewImageUrl": "https://i.imgur.com/3TLpj1x.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/308/",
+  "Authors": ["Jayyden"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMiszNDU1KzEzMzM=",
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  },
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "IsBeta": false
+}
