@@ -10,5 +10,7 @@
   "InstallationSteps": ["extract $GAME_DIR/Mods"],
   "Dependencies": {
     "Sideloader": "~0.3.3"
-  }
+  },
+  "Tags": ["SosigVoices"],
+  "IncompatibleTags": ["SosigVoices"]
 }
