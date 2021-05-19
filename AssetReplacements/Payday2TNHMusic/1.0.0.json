@@ -11,6 +11,6 @@
   "Dependencies": {
     "Sideloader": "^0.3.3"
   },
-  "Tags": ["TNHAnnouncer"],
-  "IncompatibleTags": ["TNHAnnouncer"]
+  "Tags": ["TNHMusic"],
+  "IncompatibleTags": ["TNHMusic"]
 }
