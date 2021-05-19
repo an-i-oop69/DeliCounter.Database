@@ -11,7 +11,7 @@
   "Dependencies": {
     "Sideloader": "^0.3.3"
   },
-  "Tags": ["TNHAnnouncer"],
-  "IncompatibleTags": ["TNHAnnouncer"]
+  "Tags": ["SosigVoices"],
+  "IncompatibleTags": ["SosigVoices"]
 }
 
