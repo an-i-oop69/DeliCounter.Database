@@ -13,7 +13,7 @@
     "WurstMod": "^2.0.3"
   },
   "InstallationSteps": [
-    "extract $GAME_DIR/CustomLevels/TakeAndHold"
+    "extract $GAME_DIR/Deli/mods"
   ],
   "IsBeta": false
 }
