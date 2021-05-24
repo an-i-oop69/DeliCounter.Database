@@ -10,7 +10,7 @@
   ],
   "DownloadUrl": "https://bonetome.com/download.php?file=NzM0MzlkMDZkNTI0Yjg1NisrMTUyMQ==",
   "Dependencies": {
-    "WurstMod": "2.0.2"
+    "WurstMod": "^2.0.3"
   },
   "InstallationSteps": [
     "extract $GAME_DIR/CustomLevels/TakeAndHold"
