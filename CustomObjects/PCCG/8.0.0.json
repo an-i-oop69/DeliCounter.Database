@@ -11,7 +11,7 @@
   "Dependencies": {
     "Deli": "^0.3",
     "H3VRUtils": "*",
-    "OtherLoader": "^0.1.6"
+    "OtherLoader": "^0.2.0"
   },
   "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
   "IsBeta": false

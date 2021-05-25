@@ -11,6 +11,6 @@
   "Dependencies": {
     "TNHTweaker": "~1.6.0",
     "DoomboxsGermanUniforms": "^1.1.1",
-    "OtherLoader": "^0.1.6"
+    "OtherLoader": "^0.2.0"
   }
 }

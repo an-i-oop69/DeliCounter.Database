@@ -11,7 +11,7 @@
   ],
   "DownloadUrl": "https://bonetome.com/download.php?file=N2EzYmUzYzk2MDVhNmQ3OSsrMTYyMQ==",
   "Dependencies": {
-    "OtherLoader": "^0.1.7"
+    "OtherLoader": "^0.2.0"
   },
   "InstallationSteps": [
     "extract $GAME_DIR\\Deli\\mods\\"

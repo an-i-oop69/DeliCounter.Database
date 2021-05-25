@@ -10,7 +10,7 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=OTc5NTkxNDk5M2QzOTJiMCszODErMTYyMw==",
   "InstallationSteps": ["extract $GAME_DIR/Deli/mods/"],
   "Dependencies": {
-    "OtherLoader": "^0.1.7",
+    "OtherLoader": "^0.2.0",
     "H3VRUtils": "*"
   }
 }

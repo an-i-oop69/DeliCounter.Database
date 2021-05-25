@@ -9,7 +9,7 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=N2E4MmQ5ZmY1OWQ5OTcwMSszODErMTYyNw==",
   "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
   "Dependencies": {
-    "OtherLoader": "~0.1.2",
+    "OtherLoader": "^0.2.0",
     "TNHTweaker": "~1.6.0"
   }
 }

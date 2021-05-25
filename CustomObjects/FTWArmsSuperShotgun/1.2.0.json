@@ -9,7 +9,7 @@
   "Authors": ["Andrew_FTW"],
   "DownloadUrl": "https://bonetome.com/download.php?file=MTBmNGQ1ZmZkYmVjODI0NCsrMTI2Mw==",
   "Dependencies": {
-    "OtherLoader": "^0.1.5"
+    "OtherLoader": "^0.2.0"
   },
   "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
   "IsBeta": false

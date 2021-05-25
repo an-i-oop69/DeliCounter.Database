@@ -10,6 +10,6 @@
   "InstallationSteps": ["move Deli\\mods\\HotlineHeather.deli"],
   "Dependencies": {
     "TNHTweaker": "~1.6.0",
-    "OtherLoader": "~0.1.5"
+    "OtherLoader": "^0.2.0"
   }
 }
