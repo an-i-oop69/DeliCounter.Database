@@ -1,5 +1,5 @@
 {
-  "VersionNumber": "0.3.4",
+  "VersionNumber": "0.3.5",
   "Name": "Sideloader",
   "Description": "Asset replacer for H3VR",
   "ShortDescription": "Asset replacer for H3VR",
@@ -8,7 +8,7 @@
   "Authors": [
     "denikson"
   ],
-  "DownloadUrl": "https://github.com/ghorsington/H3VR.Sideloader/releases/download/v0.3.4/H3VR.Sideloader_v0.3.4.zip",
+  "DownloadUrl": "https://github.com/ghorsington/H3VR.Sideloader/releases/download/v0.3.5/H3VR.Sideloader_v0.3.5.zip",
   "Dependencies": {
     "BepInEx": "^5.4.8",
     "BepInEx.MonoMod": "^1.0.0",
