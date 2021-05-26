@@ -1,0 +1,14 @@
+{
+  "Name": "Onsite Procurement Expansion",
+  "VersionNumber": "1.0.1",
+  "Description": "Long description of your mod. Shows on the sidebar when this mod is selected",
+  "ShortDescription": "Adds 5 new onsite procurement style characters",
+  "Authors": ["Aeesthetic"],
+  "IconUrl": "https://media.discordapp.net/attachments/143573442715844618/846943132066775060/Fiona.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/488/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MzVhZWQ1MDhjMTg1ZTIzNyszNjA1KzE2NjU=",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "Dependencies": {
+    "TNHTweaker": "~1.6.0"
+  }
+}
