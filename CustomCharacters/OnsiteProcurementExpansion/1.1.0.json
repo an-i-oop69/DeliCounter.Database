@@ -1,12 +1,12 @@
 {
   "Name": "Onsite Procurement Expansion",
-  "VersionNumber": "1.0.1",
+  "VersionNumber": "1.1.0",
   "Description": "Are you part of the weird niche of people who enjoy Onsite Procurement Patrice, and wish for a similar play style in Wieners Through Time? Or are you looking to get into Onsite Procurement, but need an easier character to try it out? Well, look no further! This mod features five brand new characters, following the default beginner, wild west, ww2, postwar, and modern progressions",
   "ShortDescription": "Adds 5 new onsite procurement style characters",
   "Authors": ["Aeesthetic"],
   "IconUrl": "https://media.discordapp.net/attachments/143573442715844618/846943132066775060/Fiona.png",
   "SourceUrl": "https://bonetome.com/h3vr/characters/488/",
-  "DownloadUrl": "https://github.com/inhale-aesthetic/Onsite-Procurement-Expansion/files/6555081/OnsiteProcurementExpansion.zip",
+  "DownloadUrl": "https://github.com/inhale-aesthetic/Onsite-Procurement-Expansion/files/6555531/OnsiteProcurementExpansion.zip",
   "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
   "Dependencies": {
     "TNHTweaker": "~1.6.0"
