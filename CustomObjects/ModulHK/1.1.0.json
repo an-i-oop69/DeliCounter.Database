@@ -1,0 +1,16 @@
+{
+  "Name": "ModulHK",  
+  "VersionNumber": "1.1.0",
+  "Description": "IMPORTANT: This mod was designed to be an Expansion/DLC of ModulAR, and is made to be used with it.\n LATEST VERSION OF H3VRUTILS REQUIRED!\n ~ Notes ~\n - HK's rail is higher, meaning you have to use the upper if you want to use the handguards.\n - HK's buffer tube is longer and results in some problems with it, I've tried my best to reduce it and I'm still looking into fixes.\n Chunky AR.\n Introducing the MODULHK! An Expansion to the ModulAR platform.\n Including the 60 round PMAG, and the cursed HK7 Lower which takes MP7 Mags!\n Included are:\n 2 Lowers\n 1 Upper\n Countless Handguards\n 1 Buffer\n 2 Stocks\n 1 Pistol Grip\n 1 Piston/Gasblock\n 5 Barrels (With folding sights!)\n 30 round Maritime Steel\n 60 round Magpul PMAG.\n Unique HK416A5 Rear sight\n Want to support my work? \n Buy me a coffee! \n https://ko-fi.com/woofwoof4723.\n",
+  "ShortDescription": "Introducing the MODULHK! An Expansion to the ModulAR platform.",
+  "Authors": ["NotWolfie"],
+  "IconUrl": "https://i.imgur.com/9nS8TDy.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/468/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YTNiODM3ZGQ2YmExMTRmNCsrMTYzNg==",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/mods/"],
+  "Dependencies": {
+    "H3VRUtils": "^7.2.1", 
+    "MeatsModulAROverhaul": "*"
+    },
+    "IsBeta": false
+}
