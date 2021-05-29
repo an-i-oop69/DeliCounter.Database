@@ -1,15 +1,20 @@
 {
+  "VersionNumber": "2.0.0",
   "Name": "\"Golub\" 92 Match (G92M)",
-  "VersionNumber": "1.2.5",
   "Description": "After a week of bugs, fixes and more bugs, the Golub 92 Match is completed. \r\n- Fitted with a USP Match weight, the slide from a Beretta M9, and a Glock 18's frame.\r\n- Chambered in .45 ACP\r\n- Comes with a scrap version\r\n\r\nUnfortunately the Purple Edition seen in the video and images didn't get into the final mod - partly because I wanted to keep it for myself, being the greedy tosspot that I am. Ok COMPLETELY because I'm a greedy tosspot.\r\n\r\nIf enough people ask I might make some non-match versions and more realistic variations using the H3VR model's textures so the gun looks more cobbled together. You can ask on discord at SovietPigeon#7650\r\n\r\nAnyways, have fun.\r\n\r\nREQUESTED FEATURES - \r\nSlide release button",
   "ShortDescription": "USP Match, Beretta M9, and Glock 18 hybrid",
-  "Authors": ["SovietPigeon"],
   "IconUrl": "https://i.imgur.com/V2JPdMA.jpg",
   "PreviewImageUrl": "https://i.imgur.com/V2JPdMA.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/328/",
+  "Authors": [
+    "SovietPigeon"
+  ],
   "DownloadUrl": "https://bonetome.com/download.php?file=YThmZjJlZjBhYzE5YzNhNisrMTM1NQ==",
-  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
     "LSIIC": "^1.3.0"
-  }
+  },
+  "InstallationSteps": [
+    "extract $GAME_DIR/VirtualObjects"
+  ],
+  "IsBeta": false
 }
