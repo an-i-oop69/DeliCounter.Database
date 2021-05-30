@@ -3,10 +3,11 @@
   "VersionNumber": "1.2.0",
   "Description": "Mod for H3VR to remove the red dot and add numerous cosmetic enhancements to the M1911 Tactical.",
   "ShortDescription": "Better1911 The Deli 0.2 Update",
-  "Authors": ["Maiq-The-Dude"],
+  "Authors": [ "M'aiq" ],
+  "IconUrl": "https://avatars.githubusercontent.com/u/18471731?s=460&u=5b0f941c9b2b4276f8289379168f4f7c542607fd&v=4",
   "SourceUrl": "https://github.com/Maiq-The-Dude/Better1911",
   "DownloadUrl": "https://github.com/Maiq-The-Dude/Better1911/releases/download/1.2.0/Better1911.deli",
-  "InstallationSteps": ["move Deli/mods"],
+  "InstallationSteps": [ "move Deli/mods" ],
   "Dependencies": {
     "Deli": "^0.2.5",
     "BepInEx": "^5.4.9"
