@@ -7,7 +7,7 @@
   "IconUrl": "https://avatars.githubusercontent.com/u/18471731?s=460&u=5b0f941c9b2b4276f8289379168f4f7c542607fd&v=4",
   "SourceUrl": "https://github.com/Maiq-The-Dude/Better1911",
   "DownloadUrl": "https://github.com/Maiq-The-Dude/Better1911/releases/download/1.3.0/Better1911.deli",
-  "InstallationSteps": [ "move Deli/mods" ],
+  "InstallationSteps": ["move Deli/mods"],
   "Dependencies": {
     "Deli": "^0.3.0",
     "BepInEx": "^5.4.9"
