@@ -1,0 +1,14 @@
+{
+  "Name": "ModulSig",
+  "VersionNumber": "2.0.0",
+  "Description": "uhhhhh",
+  "ShortDescription": "uhhhh",
+  "Authors": ["meat_banono"],
+  "IconUrl": "https://i.imgur.com/G2vSDNE.jpg",
+  "SourceUrl": "Link to the GitHub / BoneTome page the mod is sourced from",
+  "DownloadUrl": "Download URL for the mod",
+  "InstallationSteps": ["extract $GAME_DIR"],
+  "Dependencies": {
+    "Deli": "^0.2.5"
+  }
+}
