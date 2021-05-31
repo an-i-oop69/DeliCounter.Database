@@ -5,10 +5,12 @@
   "ShortDescription": "uhhhh",
   "Authors": ["meat_banono"],
   "IconUrl": "https://i.imgur.com/G2vSDNE.jpg",
-  "SourceUrl": "Link to the GitHub / BoneTome page the mod is sourced from",
-  "DownloadUrl": "Download URL for the mod",
-  "InstallationSteps": ["extract $GAME_DIR"],
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/494/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=OWQwMjUzNzA4M2I3NjQ3YisrMTY3NQ==",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods/"],
   "Dependencies": {
-    "Deli": "^0.2.5"
+    "Deli": "^0.3.2"
+    "OtherLoader": "^0.2.0",
+    "H3VRUtils": "*"
   }
 }
